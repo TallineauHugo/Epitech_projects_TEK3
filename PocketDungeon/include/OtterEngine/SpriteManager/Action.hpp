@@ -1,0 +1,16 @@
+#pragma once
+
+enum Action {
+	IDLE_UP,
+	IDLE_RIGHT,
+	IDLE_DOWN,
+	IDLE_LEFT,
+	RUN_UP,
+	RUN_RIGHT,
+	RUN_DOWN,
+	RUN_LEFT,
+	JUMP,
+	SWITCH,
+	DEAD,
+	UNDEFINED
+};

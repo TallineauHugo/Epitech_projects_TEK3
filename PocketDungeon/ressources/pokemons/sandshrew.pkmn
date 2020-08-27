@@ -1,0 +1,11 @@
+id:027
+type:ground
+ev:+1def
+exp:93
+rate:255
+hp:50
+atk:75
+def:85
+atkSpe:20
+defSpe:30
+speed:40

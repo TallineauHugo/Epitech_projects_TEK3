@@ -1,0 +1,4 @@
+<map id="OtterEngine::SpriteSlider" name="OtterEngine::SpriteSlider">
+<area shape="rect" id="node2" href="$d6/dfa/class_otter_engine_1_1_menu_element.html" title="{OtterEngine::MenuElement\n|# _size\l# _offset\l|+ MenuElement()\l+ ~MenuElement()\l+ update()\l+ draw()\l+ getSize()\l+ getOffset()\l}" alt="" coords="35,351,213,516"/>
+<area shape="rect" id="node4" href="$db/d66/class_otter_engine_1_1_object.html" title="{OtterEngine::Object\n|# _name\l# _hitbox\l# _velocity\l# _events\l# _sprite\l# _aim\l|+ Object()\l+ ~Object()\l+ setPos()\l+ setAim()\l+ setHitBox()\l+ setVelocity()\l+ getPos()\l+ getAim()\l+ getSize()\l+ getAngle()\land 8 more...\l}" alt="" coords="126,5,263,303"/>
+</map>

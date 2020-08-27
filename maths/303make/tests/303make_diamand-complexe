@@ -1,0 +1,11 @@
+d: c
+	compilation de c => d
+
+e: b d
+	compilation de b et d => e
+
+c: a
+	compilation de a => c
+
+b: a
+	compilation de a => b

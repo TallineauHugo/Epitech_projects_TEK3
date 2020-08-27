@@ -1,0 +1,116 @@
+f20: f01.o f02.o f03.o f04.o f05.o f06.o f07.o f08.o f09.o f10.o f11.o f12.o f13.o f14.o f15.o f16.o f17.o f18.o f19.o f20.o
+	cc -o f20 f01.o f02.o f03.o f04.o f05.o f06.o f07.o f08.o f09.o f10.o f11.o f12.o f13.o f14.o f15.o f16.o f17.o f18.o f19.o f20.o
+
+f20.o: f20.c
+	cc -c f20.c
+
+f19: f01.o f02.o f03.o f04.o f05.o f06.o f07.o f08.o f09.o f10.o f11.o f12.o f13.o f14.o f15.o f16.o f17.o f18.o f19.o
+	cc -o f19 f01.o f02.o f03.o f04.o f05.o f06.o f07.o f08.o f09.o f10.o f11.o f12.o f13.o f14.o f15.o f16.o f17.o f18.o f19.o
+
+f19.o: f19.c
+	cc -c f19.c
+
+f18: f01.o f02.o f03.o f04.o f05.o f06.o f07.o f08.o f09.o f10.o f11.o f12.o f13.o f14.o f15.o f16.o f17.o f18.o
+	cc -o f18 f01.o f02.o f03.o f04.o f05.o f06.o f07.o f08.o f09.o f10.o f11.o f12.o f13.o f14.o f15.o f16.o f17.o f18.o
+
+f18.o: f18.c
+	cc -c f18.c
+
+f17: f01.o f02.o f03.o f04.o f05.o f06.o f07.o f08.o f09.o f10.o f11.o f12.o f13.o f14.o f15.o f16.o f17.o
+	cc -o f17 f01.o f02.o f03.o f04.o f05.o f06.o f07.o f08.o f09.o f10.o f11.o f12.o f13.o f14.o f15.o f16.o f17.o
+
+f17.o: f17.c
+	cc -c f17.c
+
+f16: f01.o f02.o f03.o f04.o f05.o f06.o f07.o f08.o f09.o f10.o f11.o f12.o f13.o f14.o f15.o f16.o
+	cc -o f16 f01.o f02.o f03.o f04.o f05.o f06.o f07.o f08.o f09.o f10.o f11.o f12.o f13.o f14.o f15.o f16.o
+
+f16.o: f16.c
+	cc -c f16.c
+
+f15: f01.o f02.o f03.o f04.o f05.o f06.o f07.o f08.o f09.o f10.o f11.o f12.o f13.o f14.o f15.o
+	cc -o f15 f01.o f02.o f03.o f04.o f05.o f06.o f07.o f08.o f09.o f10.o f11.o f12.o f13.o f14.o f15.o
+
+f15.o: f15.c
+	cc -c f15.c
+
+f14: f01.o f02.o f03.o f04.o f05.o f06.o f07.o f08.o f09.o f10.o f11.o f12.o f13.o f14.o
+	cc -o f14 f01.o f02.o f03.o f04.o f05.o f06.o f07.o f08.o f09.o f10.o f11.o f12.o f13.o f14.o
+
+f14.o: f14.c
+	cc -c f14.c
+
+f13: f01.o f02.o f03.o f04.o f05.o f06.o f07.o f08.o f09.o f10.o f11.o f12.o f13.o
+	cc -o f13 f01.o f02.o f03.o f04.o f05.o f06.o f07.o f08.o f09.o f10.o f11.o f12.o f13.o
+
+f13.o: f13.c
+	cc -c f13.c
+
+f12: f01.o f02.o f03.o f04.o f05.o f06.o f07.o f08.o f09.o f10.o f11.o f12.o
+	cc -o f12 f01.o f02.o f03.o f04.o f05.o f06.o f07.o f08.o f09.o f10.o f11.o f12.o
+
+f12.o: f12.c
+	cc -c f12.c
+
+f11: f01.o f02.o f03.o f04.o f05.o f06.o f07.o f08.o f09.o f10.o f11.o
+	cc -o f11 f01.o f02.o f03.o f04.o f05.o f06.o f07.o f08.o f09.o f10.o f11.o
+
+f11.o: f11.c
+	cc -c f11.c
+
+f10: f01.o f02.o f03.o f04.o f05.o f06.o f07.o f08.o f09.o  f10.o
+	cc -o f10 f01.o f02.o f03.o f04.o f05.o f06.o f07.o f08.o f09.o f10.o
+
+f10.o: f10.c
+	cc -c f10.c
+
+f09: f01.o f02.o f03.o f04.o f05.o f06.o f07.o f08.o f09.o
+	cc -o f09 f01.o f02.o f03.o f04.o f05.o f06.o f07.o f08.o f09.o
+
+f09.o: f09.c
+	cc -c f09.c
+
+f08: f01.o f02.o f03.o f04.o f05.o f06.o f07.o f08.o
+	cc -o f08 f01.o f02.o f03.o f04.o f05.o f06.o f07.o f08.o
+
+f08.o: f08.c
+	cc -c f08.c
+
+f07: f01.o f02.o f03.o f04.o f05.o f06.o f07.o
+	cc -o f07 f01.o f02.o f03.o f04.o f05.o f06.o f07.o
+
+f07.o: f07.c
+	cc -c f07.c
+
+f06: f01.o f02.o f03.o f04.o f05.o f06.o
+	cc -o f06 f01.o f02.o f03.o f04.o f05.o f06.o
+
+f06.o: f06.c
+	cc -c f06.c
+
+f05: f01.o f02.o f03.o f04.o f05.o
+	cc -o f05 f01.o f02.o f03.o f04.o f05.o
+
+f05.o: f05.c
+	cc -c f05.c
+
+f04: f01.o f02.o f03.o f04.o
+	cc -o f04 f01.o f02.o f03.o f04.o
+
+f04.o: f04.c
+	cc -c f04.c
+
+f03: f01.o f02.o f03.o f19.o f20.o
+	cc -o f03 f01.o f02.o f03.o
+
+f03.o: f03.c
+	cc -c f03.c
+
+f02: f01.o f02.o
+	cc -o f02 f01.o f02.o
+
+f02.o: f02.c
+	cc -c f02.c
+
+f01.o: f01.c
+	cc -c f01.c

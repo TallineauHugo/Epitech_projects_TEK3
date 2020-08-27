@@ -1,0 +1,5 @@
+<map id="ZigZagEnnemy" name="ZigZagEnnemy">
+<area shape="rect" id="node2" href="$df/d91/class_ennemy_space_ship.html" title="{EnnemySpaceShip\n||+ EnnemySpaceShip()\l+ ~EnnemySpaceShip()\l+ CollisionVerification()\l+ CollisionReaction()\l+ updateEvents()\l+ EnnemySpaceShip()\l+ ~EnnemySpaceShip()\l+ clone()\l+ CollisionVerification()\l+ CollisionReaction()\land 7 more...\l}" alt="" coords="5,652,167,876"/>
+<area shape="rect" id="node3" href="$d5/d56/class_space_ship.html" title="{SpaceShip\n|# _lastShoot\l# _cooldown\l# _camp\l|+ SpaceShip()\l+ ~SpaceShip()\l+ shootBullet()\l+ getCooldown()\l+ setCooldown()\l+ getCamp()\l+ setCamp()\l+ updateEvents()\l+ SpaceShip()\l+ ~SpaceShip()\land 6 more...\l}" alt="" coords="25,351,147,604"/>
+<area shape="rect" id="node4" href="$db/d66/class_otter_engine_1_1_object.html" title="{OtterEngine::Object\n|# _name\l# _hitbox\l# _velocity\l# _events\l# _sprite\l# _aim\l|+ Object()\l+ ~Object()\l+ setPos()\l+ setAim()\l+ setHitBox()\l+ setVelocity()\l+ getPos()\l+ getAim()\l+ getSize()\l+ getAngle()\land 8 more...\l}" alt="" coords="17,5,155,303"/>
+</map>

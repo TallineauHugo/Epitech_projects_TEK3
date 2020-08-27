@@ -1,0 +1,10 @@
+Ing;réunion des ingrédients;7
+Ech;couper les échalottes;4;Ing
+Sau;cuire les échalottes avec du whisky, du soja, de la tomate et du sucre;5;Ech;Ing
+Oig;couper l'oignon en dés;4;Ing
+Des;cuire les dés d'oignon avec de l'huile;10;Oig;Ing
+Ste;cuire les steaks;12;Ing
+Hau;étaler la moutarde sur la partie haute du pain;1;Ing
+Bas;étaler la sauce sur la partie basse du pain;2;Sau
+Ham;mettre le steack avec les oignons entre 2 tranches de fromages dans le pain;2;Des;Ste;Bas;Hau
+Fon;mettre le cheeseburger au four;1;Ham

@@ -1,0 +1,84 @@
+Léo Colin-vimard: leo.colin-vimard@epitech.eu
+Hugo Tallineau: hugo.tallineau@epitech.eu
+Nathan Tual: nathan.tual@epitech.eu
+Flavian Feugueur: flavian.feugueur@epitech.eu
+
+
+					R-Type Network Protocol
+
+
+Table of Contents
+
+	1. Introduction . . . . . . . . . . . . . . . . . . . . . . . . . .
+	2. Basic Structures . . . . . . . . . . . . . . . . . . . . . . . .
+		2.1. Header . . . . . . . . . . . . . . . . . . . . . . . . . .
+		2.2. Body . . . . . . . . . . . . . . . . . . . . . . . . . . .
+	3. Protocol Packets Definition . . . . . . . . . . . . . . . . . . 
+		3.1. Connect Packets . . . . . . . . . . . . . . . . . . . . .
+		3.2. Lobby Packets . . . . . . . . . . . . . . . . . . . . . .
+		3.3. Game Packets . . . . . . . . . . . . . . . . . . . . . . .
+		3.4. End Packets . . . . . . . . . . . . . . . . . . . . . . .
+
+
+1. Introduction
+	This document describe the network protocol used in the "R-type" project.
+
+    This protocol version is 1.
+
+2. Basic Structures
+
+	This section will define some basic structures used by the network protocol.
+
+2.1. Header
+
+	This structure is present before any packet described in this protocol.
+
+	Each packet MUST be assigned to a type, as defined in each packet description sections.
+
+	Each packet must also contains a magic number equal to 0xDEADBEEF to ensure cheating.
+
+	Header also contains a bool variable to know if the receiver need to answer.
+
+2.2. Body
+	
+	The packets are send in JSON format (in further version we are going to implements a binary protocol)
+
+	Here is the format:
+
+	{header:[<magicNumber>, <type>, <answer>], body:[{<PosX>, <PosY>, <type>, <id>}, {...}, {...} ]}
+
+
+3. Protocol Packets Definition
+
+	This section will explain all the different types of packets we are using.
+
+3.1. Connect Packets
+
+     	The client send a packet to initiate the connection
+
+	Here is the body:
+	["Connect"]
+
+	The server answer with a specific packet who specifies the id of the client:
+	["OK" + <id>]
+
+3.2. Lobby Packets
+
+3.3 Game Packets
+
+	This packet is sent by the server to all client so they can handle the display of all units of the game.
+
+	exemple: {header:[<magicNumber>, <type>, <answer>], body:[{<PosX>, <PosY>, <type>, <id>}, {...}, {...} ]}
+
+	magicNumber: the magic number to ensure cheating, should be 0xDEADBEEF.
+
+	type: the type of the message body, the type of game packet is 3.
+
+	answer: we don't need the client answer to this message, so answer will be equal to 0.
+
+	Inside the body we send the list of all object the clients need to display.
+
+	Object contains the positions, the type of object for the clients can set a sprite, and an id.
+
+
+3.4 End packets

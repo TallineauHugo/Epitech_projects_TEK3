@@ -1,0 +1,73 @@
+\hypertarget{class_client}{}\section{Client Class Reference}
+\label{class_client}\index{Client@{Client}}
+
+
+Collaboration diagram for Client\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=216pt]{de/d44/class_client__coll__graph}
+\end{center}
+\end{figure}
+\subsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+bool {\bfseries connect\+To\+Server} (sf\+::\+Ip\+Address ip, unsigned short port)\hypertarget{class_client_a53bc36612e5352fac441a0a38bdb0d9c}{}\label{class_client_a53bc36612e5352fac441a0a38bdb0d9c}
+
+\item 
+void {\bfseries disconnect} ()\hypertarget{class_client_a97e144b48409c0a9873eee09f04ce724}{}\label{class_client_a97e144b48409c0a9873eee09f04ce724}
+
+\item 
+void {\bfseries setup} ()\hypertarget{class_client_a33b0b1f7391689c68fa125549e8c5dcc}{}\label{class_client_a33b0b1f7391689c68fa125549e8c5dcc}
+
+\item 
+bool {\bfseries get\+Message\+From\+Queue} (std\+::string \&buff)\hypertarget{class_client_af2a603210e401e7374b69457a20aec81}{}\label{class_client_af2a603210e401e7374b69457a20aec81}
+
+\item 
+void {\bfseries send\+To\+Server} (std\+::string msg)\hypertarget{class_client_a802ec0c30a7e39feca055bb98ea28a2d}{}\label{class_client_a802ec0c30a7e39feca055bb98ea28a2d}
+
+\item 
+void {\bfseries set\+Game\+Id} (std\+::size\+\_\+t id)\hypertarget{class_client_a23899458ea9b3b6c489185133962fa54}{}\label{class_client_a23899458ea9b3b6c489185133962fa54}
+
+\item 
+void {\bfseries process} (std\+::string buff)\hypertarget{class_client_a8757d230a5129c2ed9ffa8cf5c25c727}{}\label{class_client_a8757d230a5129c2ed9ffa8cf5c25c727}
+
+\item 
+void {\bfseries handle\+Input} (float delta\+Time)\hypertarget{class_client_acde8cc0ebede83516ac4b14620d9eb6a}{}\label{class_client_acde8cc0ebede83516ac4b14620d9eb6a}
+
+\item 
+void {\bfseries update} (float delta\+Time)\hypertarget{class_client_aa50bf068e93aa26d9905d2a7eaef25a0}{}\label{class_client_aa50bf068e93aa26d9905d2a7eaef25a0}
+
+\item 
+void {\bfseries create\+Object} (std\+::size\+\_\+t id, Vector2d pos, std\+::string type)\hypertarget{class_client_aa284ea5e10f9b8448ea49f4d3ee4e7db}{}\label{class_client_aa284ea5e10f9b8448ea49f4d3ee4e7db}
+
+\item 
+{\bfseries Client} (std\+::size\+\_\+t id, boost\+::asio\+::ip\+::udp\+::endpoint endpoint)\hypertarget{class_client_afc03ac8dfe9f5e626519138fe98795ef}{}\label{class_client_afc03ac8dfe9f5e626519138fe98795ef}
+
+\item 
+std\+::size\+\_\+t {\bfseries get\+Id} () const \hypertarget{class_client_aa9043ebd06e78d54895e51ba79f8604a}{}\label{class_client_aa9043ebd06e78d54895e51ba79f8604a}
+
+\item 
+boost\+::asio\+::ip\+::udp\+::endpoint {\bfseries get\+Endpoint} () const \hypertarget{class_client_a0bef454cad4e4fc2cb2ad843d3d3c9a8}{}\label{class_client_a0bef454cad4e4fc2cb2ad843d3d3c9a8}
+
+\item 
+boost\+::asio\+::ip\+::address {\bfseries get\+Ip\+Address} () const \hypertarget{class_client_a225856505b4297e753321bdc0476bcb2}{}\label{class_client_a225856505b4297e753321bdc0476bcb2}
+
+\item 
+unsigned short {\bfseries get\+Port} () const \hypertarget{class_client_afb9dbc507259b98e688ea229270dc793}{}\label{class_client_afb9dbc507259b98e688ea229270dc793}
+
+\item 
+bool {\bfseries is\+Ready} () const \hypertarget{class_client_abc9fb145c0b796fa007120261a42cd2a}{}\label{class_client_abc9fb145c0b796fa007120261a42cd2a}
+
+\item 
+void {\bfseries make\+Ready} ()\hypertarget{class_client_a7fb429a024015a8be302b5283f41f045}{}\label{class_client_a7fb429a024015a8be302b5283f41f045}
+
+\end{DoxyCompactItemize}
+
+
+The documentation for this class was generated from the following files\+:\begin{DoxyCompactItemize}
+\item 
+Client/include/Client.\+hpp\item 
+Server/include/Client\+Server.\+hpp\item 
+Client/src/Client.\+cpp\item 
+Server/src/Client\+Server.\+cpp\end{DoxyCompactItemize}

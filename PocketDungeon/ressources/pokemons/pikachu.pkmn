@@ -1,0 +1,12 @@
+id:025
+type:electric
+ev:+2speed
+exp:82
+rate:190
+hp:35
+atk:55
+def:40
+atkSpe:50
+defSpe:50
+speed:90
+movepool:1-ThunderShock/2-Growl/3-TailWhip/6-QuickAttack/9-DoubleKick/12-DoubleTeam/15-ThunderWave/18-LightScreen/21-Thunderbolt/24-Slam/27-Agility/30-Thunder

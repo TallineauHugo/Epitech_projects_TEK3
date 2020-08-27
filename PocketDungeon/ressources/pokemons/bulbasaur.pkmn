@@ -1,0 +1,13 @@
+id:001
+type:grass/poison
+ev:+1atkSpe
+exp:64
+rate:45
+hp:45
+atk:49
+def:49
+atkSpe:65
+defSpe:65
+speed:45
+movepool:1-Tackle/4-Growl/5-VineWhip/15-PoisonPowder/15-SleepPowder/20-RazorLeaf/25-SweetScent/32-Growth/39-Synthesis/46-SolarBeam
+evolve:16-ivysaur

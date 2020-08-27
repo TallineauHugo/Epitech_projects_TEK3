@@ -1,0 +1,11 @@
+id:043
+type:grass/poison
+ev:+1atkSpe
+exp:78
+rate:255
+hp:45
+atk:50
+def:55
+atkSpe:75
+defSpe:65
+speed:30

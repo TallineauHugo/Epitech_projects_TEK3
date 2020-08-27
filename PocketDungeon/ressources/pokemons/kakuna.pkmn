@@ -1,0 +1,11 @@
+id:014
+type:bug/poison
+ev:+2def
+exp:71
+rate:120
+hp:45
+atk:25
+def:50
+atkSpe:25
+defSpe:25
+speed:35

@@ -1,0 +1,60 @@
+AVANT DE TRAVAILLER :
+
+git clone https://github.com/NTual/PocketDungeon.git
+
+git checkout -b "LE NOM DE VOTRE BRANCHE, FAITES PREUVE D'ORIGINALITE"
+
+-----------------------
+
+POUR PUSH:
+
+git add ...
+
+git commit -am "LE NOM DE VOTRE COMMIT, TOUJOURS AUTANT D'ORIGINALITE REQUISE"
+
+git push origin "LE NOM DE VOTRE BRANCHE"
+
+
+-----------------------------
+
+
+POUR PULL REQUEST (dès que le travail est propre):
+
+firefox : ouvrir https://github.com/NTual/PocketDungeon/pulls
+
+cliquer sur New pull request
+
+base: master | compare: votre branche --> si c'est Able to merge en vert, c'est que c'est bon, vous avez bien travaillé.
+
+cliquer sur Create pull request
+
+Facultativement, vous pouvez laisser un commentaire (ou message) et assigner la pull request à quelqu'un
+
+--------------------------------
+
+POUR ACCEPTER PULL REQUEST:
+
+
+-> PERSONNE ACCEPTE SES PROPRES PULL REQUESTS SAUF EN CAS DE CHANGEMENT MINEUR OU POUR GAIN DE TEMPS
+
+meme lien qu'au dessus
+
+cliquer sur la pull request de votre collègue
+
+regarder les files changed
+
+Si le travail est bien fait: on clique sur Merge pull request, on peut aussi laisser un commentaire si y'a un ou deux changements à faire
+
+sinon : on commente (soit en général, soit on peut aller dans les files changed et commenter une ligne précise en cliquant sur le + qui apparaitra à droite du numéro de la ligne), on attend que le collègue fasse les modifications (pas besoin de re-request pull, normalement y'a juste besoin de re-add, re-commit et re-push sur votre branche)
+
+-------------------------------------------------
+
+NE JAMAIS OUBLIER DE FAIRE:
+
+git pull origin master
+
+
+
+--> Le but c'est de jamais quitter votre branche de dev mais qu'elle soit toujours à jour avec le master
+
+

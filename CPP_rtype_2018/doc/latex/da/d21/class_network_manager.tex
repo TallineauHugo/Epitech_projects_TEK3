@@ -1,0 +1,67 @@
+\hypertarget{class_network_manager}{}\section{Network\+Manager Class Reference}
+\label{class_network_manager}\index{Network\+Manager@{Network\+Manager}}
+
+
+Collaboration diagram for Network\+Manager\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=216pt]{df/d5a/class_network_manager__coll__graph}
+\end{center}
+\end{figure}
+\subsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+void {\bfseries setup} ()\hypertarget{class_network_manager_a87b64dafa618fac138addfac9c47edab}{}\label{class_network_manager_a87b64dafa618fac138addfac9c47edab}
+
+\item 
+void {\bfseries send\+To\+Server} (std\+::string data)\hypertarget{class_network_manager_afdea8bf9d971b63d87bce037b22f41ed}{}\label{class_network_manager_afdea8bf9d971b63d87bce037b22f41ed}
+
+\item 
+void {\bfseries disconnect} ()\hypertarget{class_network_manager_a751f87add468a5ddc70c4087ab80533f}{}\label{class_network_manager_a751f87add468a5ddc70c4087ab80533f}
+
+\item 
+bool {\bfseries connect\+To\+Server} (sf\+::\+Ip\+Address ip, unsigned short port)\hypertarget{class_network_manager_a449e99629805f4e1ccf6c8d286fb3130}{}\label{class_network_manager_a449e99629805f4e1ccf6c8d286fb3130}
+
+\item 
+bool {\bfseries is\+Connected} () const \hypertarget{class_network_manager_ad0425d53b2193738aadf84aebe15125d}{}\label{class_network_manager_ad0425d53b2193738aadf84aebe15125d}
+
+\item 
+bool {\bfseries get\+Message\+From\+Queue} (std\+::string \&buff)\hypertarget{class_network_manager_abdc06c2b57a7f67aac0a0ce245c20b2f}{}\label{class_network_manager_abdc06c2b57a7f67aac0a0ce245c20b2f}
+
+\item 
+std\+::size\+\_\+t {\bfseries get\+Id} () const \hypertarget{class_network_manager_a2991e733decb07ea45ed9f50a304c90a}{}\label{class_network_manager_a2991e733decb07ea45ed9f50a304c90a}
+
+\item 
+void {\bfseries setup} (std\+::string ip, std\+::string port)\hypertarget{class_network_manager_ac0b3e819d194a1bfcabaa40601e16f97}{}\label{class_network_manager_ac0b3e819d194a1bfcabaa40601e16f97}
+
+\item 
+void {\bfseries send\+To\+Client} (std\+::size\+\_\+t id, std\+::string msg)\hypertarget{class_network_manager_ac25ae70d60204461bdfc63b51676615c}{}\label{class_network_manager_ac25ae70d60204461bdfc63b51676615c}
+
+\item 
+void {\bfseries send\+To\+All\+Client} (std\+::string msg)\hypertarget{class_network_manager_aefe878eaf488595299a2705a82820af4}{}\label{class_network_manager_aefe878eaf488595299a2705a82820af4}
+
+\item 
+bool {\bfseries get\+Message\+From\+Queue} (std\+::size\+\_\+t queue\+Id, std\+::string \&buff)\hypertarget{class_network_manager_ae19dbcb8807aad17c2b691b330bf3dcc}{}\label{class_network_manager_ae19dbcb8807aad17c2b691b330bf3dcc}
+
+\item 
+void {\bfseries connect} (std\+::string arg)\hypertarget{class_network_manager_a8d1cf066c4e6d375d2b7b1691930ef2c}{}\label{class_network_manager_a8d1cf066c4e6d375d2b7b1691930ef2c}
+
+\item 
+void {\bfseries disconnect} (std\+::string arg)\hypertarget{class_network_manager_a3fd0153d570eb8c8e6aedd125561fcd3}{}\label{class_network_manager_a3fd0153d570eb8c8e6aedd125561fcd3}
+
+\item 
+bool {\bfseries is\+Connected} (std\+::size\+\_\+t id) const \hypertarget{class_network_manager_a8f5da4c018d07466d731294761714084}{}\label{class_network_manager_a8f5da4c018d07466d731294761714084}
+
+\item 
+std\+::map$<$ std\+::size\+\_\+t, \hyperlink{class_client}{Client} $\ast$ $>$ {\bfseries get\+Client\+Map} () const \hypertarget{class_network_manager_a02f97461ffc22210fd0ed253c496c871}{}\label{class_network_manager_a02f97461ffc22210fd0ed253c496c871}
+
+\end{DoxyCompactItemize}
+
+
+The documentation for this class was generated from the following files\+:\begin{DoxyCompactItemize}
+\item 
+Client/include/Network\+Manager.\+hpp\item 
+Server/include/Network\+Manager\+Server.\+hpp\item 
+Client/src/Network\+Manager.\+cpp\item 
+Server/src/Network\+Manager\+Server.\+cpp\end{DoxyCompactItemize}

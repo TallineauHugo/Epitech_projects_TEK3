@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d3/d52/class_otter_engine_1_1_i_sprite.html" title="OtterEngine::ISprite" alt="" coords="5,85,143,112"/>
+<area shape="rect" id="node2" href="$d1/d2d/class_otter_engine_1_1_animated_sprite.html" title="OtterEngine::AnimatedSprite" alt="" coords="191,5,379,32"/>
+<area shape="rect" id="node3" href="$d8/d8a/class_otter_engine_1_1_fixed_sprite.html" title="OtterEngine::FixedSprite" alt="" coords="202,56,367,83"/>
+<area shape="rect" id="node4" href="$d4/d4b/class_otter_engine_1_1_multi_animated_sprite.html" title="OtterEngine::MultiAnimated\lSprite" alt="" coords="193,107,376,149"/>
+<area shape="rect" id="node5" href="$d2/d49/class_otter_engine_1_1_text_sprite.html" title="OtterEngine::TextSprite" alt="" coords="205,173,364,200"/>
+</map>

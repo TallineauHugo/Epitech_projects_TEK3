@@ -1,0 +1,11 @@
+id:012
+type:bug/flying
+ev:+2atkSpe/+1defSpe
+exp:160
+rate:45
+hp:60
+atk:45
+def:50
+atkSpe:80
+defSpe:80
+speed:70

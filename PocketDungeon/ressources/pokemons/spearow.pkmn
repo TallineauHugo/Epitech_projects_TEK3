@@ -1,0 +1,11 @@
+id:021
+type:normal/flying
+ev:+1speed
+exp:58
+rate:255
+hp:40
+atk:60
+def:30
+atkSpe:31
+defSpe:31
+speed:70

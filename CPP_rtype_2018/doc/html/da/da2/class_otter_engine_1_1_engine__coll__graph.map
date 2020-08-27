@@ -1,0 +1,4 @@
+<map id="OtterEngine::Engine" name="OtterEngine::Engine">
+<area shape="rect" id="node2" href="$d5/dd9/class_sound_manager.html" title="{SoundManager\n||+ SoundManager()\l+ ~SoundManager()\l+ addSound()\l+ refresh()\l+ pauseSounds()\l+ resumeSounds()\l+ stopSounds()\l}" alt="" coords="5,20,143,185"/>
+<area shape="rect" id="node3" href="$d6/d37/class_music_manager.html" title="{MusicManager\n||+ MusicManager()\l+ ~MusicManager()\l+ loadMusicFile()\l+ play()\l+ pause()\l+ stop()\l+ addVolume()\l+ subVolume()\l+ restart()\l}" alt="" coords="167,5,301,200"/>
+</map>

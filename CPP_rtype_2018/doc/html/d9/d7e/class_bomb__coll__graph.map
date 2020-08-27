@@ -1,0 +1,6 @@
+<map id="Bomb" name="Bomb">
+<area shape="rect" id="node2" href="$d2/dbe/class_bullet.html" title="{Bullet\n|# _camp\l|+ Bullet()\l+ ~Bullet()\l+ setCamp()\l+ getCamp()\l+ hit()\l+ updateEvents()\l+ Bullet()\l+ ~Bullet()\l+ setCamp()\l+ getCamp()\land 10 more...\l}" alt="" coords="13,667,135,891"/>
+<area shape="rect" id="node3" href="$db/d66/class_otter_engine_1_1_object.html" title="{OtterEngine::Object\n|# _name\l# _velocity\l# _events\l# _aim\l|+ Object()\l+ ~Object()\l+ setPos()\l+ setAim()\l+ setHitBox()\l+ setVelocity()\l+ getPos()\l+ getAim()\l+ getSize()\l+ getAngle()\land 8 more...\l}" alt="" coords="5,336,143,604"/>
+<area shape="rect" id="node5" href="$d3/d52/class_otter_engine_1_1_i_sprite.html" title="{OtterEngine::ISprite\n|# _pos\l# _size\l|+ ISprite()\l+ ~ISprite()\l+ refresh()\l+ loadSpriteFromFile()\l+ loadSpriteFromFile()\l+ loadSpriteFromFile()\l+ getPosition()\l+ setSize()\l+ setPosition()\l+ getSize()\l}" alt="" coords="160,667,311,891"/>
+<area shape="rect" id="node4" href="$d3/df8/class_otter_engine_1_1_hitbox.html" title="{OtterEngine::Hitbox\n||+ Hitbox()\l+ ~Hitbox()\l+ setAngle()\l+ setPos()\l+ setType()\l+ setSquareSize()\l+ setRadius()\l+ getAngle()\l+ getPos()\l+ getType()\l+ getSquareSize()\l+ getRadius()\l+ applyLPos()\l+ doCollide()\l}" alt="" coords="5,5,143,273"/>
+</map>

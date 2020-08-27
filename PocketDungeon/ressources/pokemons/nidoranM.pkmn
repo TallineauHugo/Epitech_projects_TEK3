@@ -1,0 +1,11 @@
+id:032
+type:poison
+ev:+1atk
+exp:60
+rate:235
+hp:46
+atk:57
+def:40
+atkSpe:40
+defSpe:40
+speed:50

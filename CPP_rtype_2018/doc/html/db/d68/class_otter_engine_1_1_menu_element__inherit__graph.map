@@ -1,0 +1,6 @@
+<map id="OtterEngine::MenuElement" name="OtterEngine::MenuElement">
+<area shape="rect" id="node4" href="$d2/d25/class_otter_engine_1_1_button.html" title="{OtterEngine::Button\n||+ Button()\l+ ~Button()\l+ setPosition()\l+ setSize()\l+ setFontSize()\l+ setText()\l+ setFont()\l+ getPosition()\l+ getDimensions()\l+ getState()\l+ setCallback()\l+ update()\l}" alt="" coords="5,564,143,803"/>
+<area shape="rect" id="node5" href="$d7/dda/class_otter_engine_1_1_slider.html" title="{OtterEngine::Slider\n||+ Slider()\l+ ~Slider()\l+ update()\l}" alt="" coords="167,630,299,737"/>
+<area shape="rect" id="node6" href="$dc/d3f/class_otter_engine_1_1_sprite_slider.html" title="{OtterEngine::SpriteSlider\n||+ SpriteSlider()\l+ ~SpriteSlider()\l+ update()\l}" alt="" coords="323,630,489,737"/>
+<area shape="rect" id="node3" href="$db/d66/class_otter_engine_1_1_object.html" title="{OtterEngine::Object\n|# _name\l# _hitbox\l# _velocity\l# _events\l# _sprite\l# _aim\l|+ Object()\l+ ~Object()\l+ setPos()\l+ setAim()\l+ setHitBox()\l+ setVelocity()\l+ getPos()\l+ getAim()\l+ getSize()\l+ getAngle()\land 8 more...\l}" alt="" coords="235,5,372,303"/>
+</map>

@@ -1,0 +1,11 @@
+id:015
+type:bug/poison
+ev:+2atk/+1defSpe
+exp:159
+rate:45
+hp:65
+atk:80
+def:40
+atkSpe:45
+defSpe:80
+speed:75

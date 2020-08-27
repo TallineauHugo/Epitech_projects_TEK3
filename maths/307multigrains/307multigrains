@@ -1,0 +1,106 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+from __future__ import print_function
+import sys
+import simplex as Simplex
+
+
+def     display(n1, n2, n3, n4, pO, pW, pC, pB, pS, array, product):
+    xmax = len(array[0])
+    res = 0
+    results = []
+    ressources = [n1, n2, n3, n4]
+    prices = [pO, pW, pC, pB, pS]
+    print("Resources: {} F1, {} F2, {} F3, {} F4\n".format(int(n1), int(n2), int(n3), int(n4)))
+    for i in range(5):
+        if product[i] == -1:
+            results.append(0)
+        else:
+            results.append(array[product[i]][xmax - 1])
+
+    if results[0] == 0:
+    	print("Oat: {} units at ${}/unit".format(results[0], int(pO)))
+    else:
+    	print("Oat: {:0.2f} units at ${}/unit".format(results[0], int(pO)))
+
+    if results[1] == 0:
+    	print("Wheat: {} units at ${}/unit".format(results[1], int(pW)))
+    else:
+   	    print("Wheat: {:0.2f} units at ${}/unit".format(results[1], int(pW)))
+
+    if results[2] == 0:
+    	print("Corn: {} units at ${}/unit".format(results[2], int(pC)))
+    else:
+    	print("Corn: {:0.2f} units at ${}/unit".format(results[2], int(pC)))
+    
+    if results[3] == 0:
+    	print("Barley: {} units at ${}/unit".format(results[3], int(pB)))
+    else:
+    	print("Barley: {:0.2f} units at ${}/unit".format(results[3], int(pB)))
+    
+    if results[4] == 0:
+    	print("Soy: {} units at ${}/unit\n".format(results[4], int(pS)))
+    else:
+    	print("Soy: {:0.2f} units at ${}/unit\n".format(results[4], int(pS)))
+
+    for i in range(len(results)):
+        res += results[i] * prices[i]
+    print("Total production value: ${:0.2f}".format(res))
+
+
+def     generateArray(n1, n2, n3, n4, pA, pB, pM, pO, pS):
+    arr = [[1.0, 0.0, 1.0, 0.0, 2.0, 1.0, 0.0, 0.0, 0.0, 0.0, n1], 
+            [1.0, 2.0, 0.0, 1.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, n2],
+            [2.0, 1.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, n3],
+            [0.0, 0.0, 3.0, 1.0, 2.0, 0.0, 0.0, 0.0, 1.0, 0.0, n4],
+            [-pA, -pB, -pM, -pO, -pS, 0.0, 0.0, 0.0, 0.0, 1.0, 0]]
+    return arr
+
+
+def     checkInput(n1, n2, n3, n4, pO, pW, pC, pB, pS):
+    state = 0
+    if n1 < 0 or n2 < 0 or n3 < 0 or n4 < 0:
+        state = -1
+    if pO <= 0 or pW <= 0 or pC <= 0 or pB <= 0 or pS <= 0:
+        state = -1
+    return state
+
+
+def     run(n1, n2, n3, n4, pO, pW, pC, pB, pS):
+    if checkInput(n1, n2, n3, n4, pO, pW, pC, pB, pS) == -1:
+        return -1
+    arr = generateArray(n1, n2, n3, n4, pO, pW, pC, pB, pS)
+    product = [-1, -1, -1, -1, -1]
+    Simplex.simplex(arr, product)
+    display(n1, n2, n3, n4, pO, pW, pC, pB, pS, arr, product);
+    return 0
+
+
+def		printUsage(bin):
+	print("USAGE\n\t{} n1 n2 n3 n4 po pw pc pb ps\n".format(bin))
+	print("DESCRIPTION")
+	print("\tn1\tnumber of tons of fertilizer F1")
+	print("\tn2\tnumber of tons of fertilizer F2")
+	print("\tn3\tnumber of tons of fertilizer F3")
+	print("\tn4\tnumber of tons of fertilizer F4")
+	print("\tpo\tprice of one unit of oat")
+	print("\tpw\tprice of one unit of wheat")
+	print("\tpc\tprice of one unit of corn")
+	print("\tpb\tprice of one unit of barley")
+	print("\tps\tprice of one unit of soy")
+
+
+if __name__ == '__main__':
+    if len(sys.argv) == 10:
+        try:
+            if run(float(int(sys.argv[1])), float(int(sys.argv[2])), float(int(sys.argv[3])), float(int(sys.argv[4])), float(int(sys.argv[5])), float(int(sys.argv[6])), float(int(sys.argv[7])), float(int(sys.argv[8])), float(int(sys.argv[9]))) != 0:
+                sys.exit(84)
+        except ValueError:
+            sys.exit(84)
+        except OverflowError:
+            sys.exit(84)
+    else:
+        printUsage(sys.argv[0])
+        sys.exit(84)
+    sys.exit(0)

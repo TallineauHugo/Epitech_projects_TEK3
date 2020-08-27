@@ -1,0 +1,11 @@
+id:004
+type:fire
+ev:+1speed
+exp:65
+rate:45
+hp:39
+atk:52
+def:43
+atkSpe:60
+defSpe:50
+speed:65

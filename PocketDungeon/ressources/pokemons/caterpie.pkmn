@@ -1,0 +1,11 @@
+id:010
+type:bug
+ev:+1hp
+exp:53
+rate:255
+hp:45
+atk:30
+def:35
+atkSpe:20
+defSpe:20
+speed:45

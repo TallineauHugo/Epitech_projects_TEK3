@@ -1,0 +1,4 @@
+/home/hugo/projects/tek3/cpp/CPP_rtype_2018/build/CMakeFiles/edit_cache.dir
+/home/hugo/projects/tek3/cpp/CPP_rtype_2018/build/CMakeFiles/rebuild_cache.dir
+/home/hugo/projects/tek3/cpp/CPP_rtype_2018/build/CMakeFiles/r-type_client.dir
+/home/hugo/projects/tek3/cpp/CPP_rtype_2018/build/CMakeFiles/r-type_server.dir

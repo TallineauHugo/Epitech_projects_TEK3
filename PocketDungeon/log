@@ -1,0 +1,4651 @@
+______________WE START A NEW GAME________________
+nb pokémons à load: 23
+Loading pikachu ... 	max hp: 11
+SUCESS
+Loading charmander ... 	max hp: 11
+SUCESS
+Loading squirtle ... 	max hp: 11
+SUCESS
+Loading bulbasaur ... 	max hp: 11
+SUCESS
+Loading ivysaur ... 	max hp: 12
+SUCESS
+Loading caterpie ... 	max hp: 11
+SUCESS
+Loading butterfree ... 	max hp: 12
+SUCESS
+Loading weedle ... 	max hp: 11
+SUCESS
+Loading kakuna ... 	max hp: 11
+SUCESS
+Loading beedrill ... 	max hp: 12
+SUCESS
+Loading pidgey ... 	max hp: 11
+SUCESS
+Loading rattata ... 	max hp: 11
+SUCESS
+Loading spearow ... 	max hp: 11
+SUCESS
+Loading ekans ... 	max hp: 11
+SUCESS
+Loading sandshrew ... 	max hp: 12
+SUCESS
+Loading nidoranF ... 	max hp: 12
+SUCESS
+Loading nidoranM ... 	max hp: 11
+SUCESS
+Loading clefairy ... 	max hp: 12
+SUCESS
+Loading vulpix ... 	max hp: 11
+SUCESS
+Loading ninetales ... 	max hp: 12
+SUCESS
+Loading jigglypuff ... 	max hp: 13
+SUCESS
+Loading zubat ... 	max hp: 11
+SUCESS
+Loading oddish ... 	max hp: 11
+SUCESS
+
+On génère pikachu
+LEARN NEW ATK:ThunderShock
+exp: 0 -> 1 / 1
+[ExpManager]: totalExp=1 | next=1
+LEARN NEW ATK:Growl
+Level up ! now lvl 2
+%: 0
+exp: 1 -> 8 / 8
+[ExpManager]: totalExp=8 | next=8
+LEARN NEW ATK:TailWhip
+Level up ! now lvl 3
+%: 0
+exp: 8 -> 27 / 27
+[ExpManager]: totalExp=27 | next=27
+Level up ! now lvl 4
+%: 0
+exp: 27 -> 64 / 64
+[ExpManager]: totalExp=64 | next=64
+Level up ! now lvl 5
+%: 0
+exp: 64 -> 125 / 125
+[ExpManager]: totalExp=125 | next=125
+LEARN NEW ATK:QuickAttack
+Level up ! now lvl 6
+%: 0
+exp: 125 -> 216 / 216
+[ExpManager]: totalExp=216 | next=216
+Level up ! now lvl 7
+%: 0
+exp: 216 -> 343 / 343
+[ExpManager]: totalExp=343 | next=343
+Level up ! now lvl 8
+%: 0
+exp: 343 -> 512 / 512
+[ExpManager]: totalExp=512 | next=512
+LEARN NEW ATK:DoubleKick
+Level up ! now lvl 9
+%: 0
+exp: 512 -> 729 / 729
+[ExpManager]: totalExp=729 | next=729
+Level up ! now lvl 10
+%: 0
+max hp: 28
+
+On génère bulbasaur
+LEARN NEW ATK:Tackle
+exp: 0 -> 1 / 1
+[ExpManager]: totalExp=1 | next=1
+Level up ! now lvl 2
+%: 0
+exp: 1 -> 8 / 8
+[ExpManager]: totalExp=8 | next=8
+Level up ! now lvl 3
+%: 0
+exp: 8 -> 27 / 27
+[ExpManager]: totalExp=27 | next=27
+LEARN NEW ATK:Growl
+Level up ! now lvl 4
+%: 0
+exp: 27 -> 64 / 64
+[ExpManager]: totalExp=64 | next=64
+Level up ! now lvl 5
+%: 0
+max hp: 19
+IT COLLIDES
+On destroy tout
+-----------OBJECT LIST------------
+obj 0 = ::PKMN::
+obj 1 = ::Player::
+obj 2 = ::Wall::
+obj 3 = ::Wall::
+obj 4 = ::Wall::
+obj 5 = ::Wall::
+obj 6 = ::Wall::
+obj 7 = ::Wall::
+obj 8 = ::Wall::
+obj 9 = ::Wall::
+obj 10 = ::Wall::
+obj 11 = ::Wall::
+obj 12 = ::Wall::
+obj 13 = ::Wall::
+obj 14 = ::Wall::
+obj 15 = ::Wall::
+obj 16 = ::Wall::
+obj 17 = ::Wall::
+obj 18 = ::Wall::
+obj 19 = ::Wall::
+obj 20 = ::Wall::
+obj 21 = ::Wall::
+obj 22 = ::Wall::
+obj 23 = ::Wall::
+obj 24 = ::Wall::
+obj 25 = ::Wall::
+obj 26 = ::Wall::
+obj 27 = ::Wall::
+obj 28 = ::Wall::
+obj 29 = ::Wall::
+obj 30 = ::Wall::
+obj 31 = ::Wall::
+obj 32 = ::Wall::
+obj 33 = ::Wall::
+obj 34 = ::Wall::
+obj 35 = ::Wall::
+obj 36 = ::Wall::
+obj 37 = ::Wall::
+obj 38 = ::Wall::
+obj 39 = ::Wall::
+obj 40 = ::Wall::
+obj 41 = ::Wall::
+obj 42 = ::Wall::
+obj 43 = ::Wall::
+obj 44 = ::Wall::
+obj 45 = ::Wall::
+obj 46 = ::Wall::
+obj 47 = ::Wall::
+obj 48 = ::Wall::
+obj 49 = ::Wall::
+obj 50 = ::Wall::
+obj 51 = ::Wall::
+obj 52 = ::Wall::
+obj 53 = ::Wall::
+obj 54 = ::Wall::
+obj 55 = ::Wall::
+obj 56 = ::Wall::
+obj 57 = ::Wall::
+obj 58 = ::Wall::
+obj 59 = ::Wall::
+obj 60 = ::Shop::
+obj 61 = ::Shop::
+obj 62 = ::Portal::
+obj 63 = ::Portal::
+obj 64 = ::Computer::
+On touche pas à ::PKMN::
+On touche pas à ::Player::
+On destroy ::Wall::
+On destroy ::Wall::
+On destroy ::Wall::
+On destroy ::Wall::
+On destroy ::Wall::
+On destroy ::Wall::
+On destroy ::Wall::
+On destroy ::Wall::
+On destroy ::Wall::
+On destroy ::Wall::
+On destroy ::Wall::
+On destroy ::Wall::
+On destroy ::Wall::
+On destroy ::Wall::
+On destroy ::Wall::
+On destroy ::Wall::
+On destroy ::Wall::
+On destroy ::Wall::
+On destroy ::Wall::
+On destroy ::Wall::
+On destroy ::Wall::
+On destroy ::Wall::
+On destroy ::Wall::
+On destroy ::Wall::
+On destroy ::Wall::
+On destroy ::Wall::
+On destroy ::Wall::
+On destroy ::Wall::
+On destroy ::Wall::
+On destroy ::Wall::
+On destroy ::Wall::
+On destroy ::Wall::
+On destroy ::Wall::
+On destroy ::Wall::
+On destroy ::Wall::
+On destroy ::Wall::
+On destroy ::Wall::
+On destroy ::Wall::
+On destroy ::Wall::
+On destroy ::Wall::
+On destroy ::Wall::
+On destroy ::Wall::
+On destroy ::Wall::
+On destroy ::Wall::
+On destroy ::Wall::
+On destroy ::Wall::
+On destroy ::Wall::
+On destroy ::Wall::
+On destroy ::Wall::
+On destroy ::Wall::
+On destroy ::Wall::
+On destroy ::Wall::
+On destroy ::Wall::
+On destroy ::Wall::
+On destroy ::Wall::
+On destroy ::Wall::
+On destroy ::Wall::
+On destroy ::Wall::
+On destroy ::Shop::
+On destroy ::Shop::
+On destroy ::Portal::
+On destroy ::Portal::
+On destroy ::Computer::
+We create a dungeon level 2
+Dungeon Type = 3
+There is 6 floor(s)
+We create a DungeonRoom level 2
+We create a DungeonRoom level 2
+We create a DungeonRoom level 2
+We create a DungeonRoom level 2
+We create a DungeonRoom level 2
+Floor 0 = 
+For Room n°0
+-- Information -- 
+This room  is empty
+-------------
+Connected on UP to 1
+Connected on LEFT to 3
+For Room n°1
+Connected on DOWN to 0
+Connected on LEFT to 2
+For Room n°2
+Connected on RIGHT to 1
+For Room n°3
+-- Information -- 
+This room  has the exit
+-------------
+Connected on RIGHT to 0
+Connected on DOWN to 4
+For Room n°4
+Connected on UP to 3
+We create a DungeonRoom level 2
+We create a DungeonRoom level 2
+We create a DungeonRoom level 2
+We create a DungeonRoom level 2
+We create a DungeonRoom level 2
+Floor 1 = 
+For Room n°0
+-- Information -- 
+This room  is empty
+-------------
+Connected on UP to 1
+Connected on LEFT to 3
+For Room n°1
+-- Information -- 
+This room  has the exit
+-------------
+Connected on DOWN to 0
+Connected on LEFT to 2
+For Room n°2
+Connected on UP to 4
+Connected on RIGHT to 1
+For Room n°3
+Connected on RIGHT to 0
+For Room n°4
+Connected on DOWN to 2
+We create a DungeonRoom level 2
+We create a DungeonRoom level 2
+We create a DungeonRoom level 2
+We create a DungeonRoom level 2
+We create a DungeonRoom level 2
+We create a DungeonRoom level 2
+Floor 2 = 
+For Room n°0
+-- Information -- 
+This room  is empty
+-------------
+Connected on UP to 1
+Connected on RIGHT to 3
+For Room n°1
+Connected on DOWN to 0
+Connected on LEFT to 2
+For Room n°2
+-- Information -- 
+This room  has the exit
+-------------
+Connected on UP to 4
+Connected on RIGHT to 1
+For Room n°3
+Connected on UP to 5
+Connected on LEFT to 0
+For Room n°4
+Connected on DOWN to 2
+For Room n°5
+Connected on DOWN to 3
+We create a DungeonRoom level 2
+We create a DungeonRoom level 2
+We create a DungeonRoom level 2
+We create a DungeonRoom level 2
+We create a DungeonRoom level 2
+We create a DungeonRoom level 2
+Floor 3 = 
+For Room n°0
+-- Information -- 
+This room  is empty
+-------------
+Connected on UP to 3
+Connected on LEFT to 1
+For Room n°1
+Connected on RIGHT to 0
+Connected on DOWN to 2
+For Room n°2
+-- Information -- 
+This room  has the exit
+-------------
+Connected on UP to 1
+Connected on RIGHT to 4
+For Room n°3
+Connected on DOWN to 0
+For Room n°4
+Connected on UP to 5
+Connected on LEFT to 2
+For Room n°5
+Connected on DOWN to 4
+We create a DungeonRoom level 2
+We create a DungeonRoom level 2
+We create a DungeonRoom level 2
+We create a DungeonRoom level 2
+We create a DungeonRoom level 2
+We create a DungeonRoom level 2
+We create a DungeonRoom level 2
+We create a DungeonRoom level 2
+Floor 4 = 
+For Room n°0
+-- Information -- 
+This room  is empty
+-------------
+Connected on UP to 1
+Connected on RIGHT to 3
+For Room n°1
+Connected on RIGHT to 2
+Connected on DOWN to 0
+For Room n°2
+Connected on DOWN to 4
+Connected on LEFT to 1
+For Room n°3
+Connected on UP to 5
+Connected on LEFT to 0
+For Room n°4
+Connected on UP to 2
+Connected on LEFT to 6
+For Room n°5
+Connected on RIGHT to 7
+Connected on DOWN to 3
+For Room n°6
+Connected on RIGHT to 4
+For Room n°7
+-- Information -- 
+This room  has the exit
+-------------
+Connected on LEFT to 5
+We create a DungeonRoom level 2
+We create a DungeonRoom level 2
+We create a DungeonRoom level 2
+We create a DungeonRoom level 2
+We create a DungeonRoom level 2
+We create a DungeonRoom level 2
+We create a DungeonRoom level 2
+Floor 5 = 
+For Room n°0
+-- Information -- 
+This room  is empty
+-------------
+Connected on RIGHT to 2
+Connected on DOWN to 1
+For Room n°1
+Connected on UP to 0
+Connected on RIGHT to 3
+For Room n°2
+Connected on DOWN to 4
+Connected on LEFT to 0
+For Room n°3
+Connected on DOWN to 5
+Connected on LEFT to 1
+For Room n°4
+Connected on UP to 2
+For Room n°5
+-- Information -- 
+This room  has the exit
+-------------
+Connected on UP to 3
+Connected on LEFT to 6
+For Room n°6
+Connected on RIGHT to 5
+We enter the room: 0
+
+On génère pikachu
+LEARN NEW ATK:ThunderShock
+exp: 0 -> 1 / 1
+[ExpManager]: totalExp=1 | next=1
+LEARN NEW ATK:Growl
+Level up ! now lvl 2
+%: 0
+exp: 1 -> 8 / 8
+[ExpManager]: totalExp=8 | next=8
+LEARN NEW ATK:TailWhip
+Level up ! now lvl 3
+%: 0
+exp: 8 -> 27 / 27
+[ExpManager]: totalExp=27 | next=27
+Level up ! now lvl 4
+%: 0
+exp: 27 -> 64 / 64
+[ExpManager]: totalExp=64 | next=64
+Level up ! now lvl 5
+%: 0
+max hp: 19
+
+On génère pikachu
+LEARN NEW ATK:ThunderShock
+exp: 0 -> 1 / 1
+[ExpManager]: totalExp=1 | next=1
+LEARN NEW ATK:Growl
+Level up ! now lvl 2
+%: 0
+exp: 1 -> 8 / 8
+[ExpManager]: totalExp=8 | next=8
+LEARN NEW ATK:TailWhip
+Level up ! now lvl 3
+%: 0
+exp: 8 -> 27 / 27
+[ExpManager]: totalExp=27 | next=27
+Level up ! now lvl 4
+%: 0
+exp: 27 -> 64 / 64
+[ExpManager]: totalExp=64 | next=64
+Level up ! now lvl 5
+%: 0
+max hp: 19
+
+On génère pikachu
+LEARN NEW ATK:ThunderShock
+exp: 0 -> 1 / 1
+[ExpManager]: totalExp=1 | next=1
+LEARN NEW ATK:Growl
+Level up ! now lvl 2
+%: 0
+exp: 1 -> 8 / 8
+[ExpManager]: totalExp=8 | next=8
+LEARN NEW ATK:TailWhip
+Level up ! now lvl 3
+%: 0
+exp: 8 -> 27 / 27
+[ExpManager]: totalExp=27 | next=27
+Level up ! now lvl 4
+%: 0
+exp: 27 -> 64 / 64
+[ExpManager]: totalExp=64 | next=64
+Level up ! now lvl 5
+%: 0
+max hp: 18
+radian: -240.751
+radian: -259.093
+radian: -164.131
+radian: -243.195
+radian: -259.707
+radian: -168.088
+radian: -243.733
+radian: -259.945
+radian: -169.028
+radian: -244.325
+radian: -260.192
+radian: -170.099
+radian: -244.919
+radian: -260.482
+radian: -171.174
+radian: -245.447
+radian: -260.715
+radian: -172.171
+radian: -246.024
+radian: -260.957
+radian: -173.304
+radian: -246.543
+radian: -261.188
+radian: -174.337
+radian: -247.059
+radian: -261.416
+radian: -175.387
+radian: -247.62
+radian: -261.653
+radian: -176.576
+radian: -247.834
+radian: -261.823
+radian: -176.923
+radian: -248.051
+radian: -261.993
+radian: -177.274
+radian: -248.273
+radian: -262.165
+radian: -177.63
+radian: -248.499
+radian: -262.338
+radian: -177.99
+radian: -248.651
+radian: -262.455
+radian: -178.234
+radian: -248.884
+radian: -262.63
+radian: -178.603
+radian: -249.041
+radian: -262.748
+radian: -178.852
+radian: -249.362
+radian: -262.986
+radian: -179.356
+radian: -249.609
+radian: -263.165
+radian: -179.741
+radian: -249.859
+radian: -263.347
+radian: -180.131
+radian: -250.029
+radian: -263.468
+radian: -179.738
+radian: -250.288
+radian: -263.652
+radian: -180.132
+radian: -250.552
+radian: -263.837
+radian: -179.734
+radian: -250.821
+radian: -264.024
+radian: -180.134
+radian: -251.095
+radian: -264.212
+radian: -179.73
+radian: -251.47
+radian: -264.466
+radian: -180.136
+radian: -251.757
+radian: -264.657
+radian: -179.726
+radian: -252.051
+radian: -264.851
+radian: -180.138
+radian: -252.35
+radian: -265.046
+radian: -179.583
+radian: -252.759
+radian: -265.308
+radian: -180.14
+radian: -253.072
+radian: -265.507
+radian: -179.576
+radian: -253.207
+radian: -265.685
+radian: -179.572
+radian: -253.253
+radian: -265.856
+radian: -179.138
+radian: -253.35
+radian: -266.037
+radian: -178.698
+radian: -253.351
+radian: -266.211
+radian: -178.251
+radian: -253.528
+radian: -266.467
+radian: -177.792
+radian: -253.536
+radian: -266.652
+radian: -177.182
+radian: -253.599
+radian: -266.846
+radian: -176.862
+radian: -253.667
+radian: -267.046
+radian: -176.386
+radian: -253.74
+radian: -267.251
+radian: -175.752
+radian: -253.877
+radian: -267.464
+radian: -175.414
+radian: -253.811
+radian: -267.6
+radian: -174.931
+radian: -254.055
+radian: -267.901
+radian: -174.413
+radian: -254.055
+radian: -268.048
+radian: -174.072
+radian: -254.089
+radian: -268.277
+radian: -173.4
+radian: -254.197
+radian: -268.516
+radian: -172.875
+radian: -254.389
+radian: -268.762
+radian: -172.342
+radian: -254.401
+radian: -268.927
+radian: -171.983
+radian: -254.617
+radian: -269.185
+radian: -171.437
+radian: -269.725
+radian: -172.102
+radian: -270
+radian: -169.754
+radian: 89.7126
+radian: -169.34
+radian: -270
+radian: -168.788
+radian: -269.705
+radian: -168.198
+radian: -270
+radian: -167.8
+radian: 89.6969
+radian: -167.196
+radian: -270
+radian: -166.75
+radian: -269.688
+radian: -166.171
+radian: -270
+radian: -165.546
+
+pikachu takes damage from ::ThunderShock:: by pikachu
+type multiplier: 0.5
+Amount of dmg: 1
+pikachu: 27/28 HP
+radian: 89.6799
+radian: -165.416
+radian: -247.574
+radian: -270
+radian: -165.836
+radian: -248.279
+radian: -269.677
+radian: -166.222
+radian: -249.286
+radian: -270
+radian: -166.574
+radian: -249.821
+radian: 89.6732
+radian: -167.019
+radian: -250.959
+radian: -269.89
+radian: -167.391
+radian: -251.565
+radian: 89.7796
+radian: -167.853
+radian: -252.525
+radian: -269.889
+radian: -168.102
+radian: -253.202
+radian: 89.7775
+radian: -168.579
+radian: -254.275
+radian: -269.888
+radian: -168.991
+radian: -255.426
+radian: 89.8874
+radian: -169.297
+radian: -256.661
+radian: -269.774
+radian: -169.958
+radian: -258.453
+radian: 89.8859
+radian: -170.407
+radian: -259.418
+radian: -269.885
+radian: -170.934
+radian: -260.961
+radian: 89.8847
+radian: -171.238
+radian: -262.626
+radian: -269.768
+radian: -171.957
+radian: -263.811
+radian: -270
+radian: -172.282
+radian: -265.711
+radian: 89.6485
+radian: -172.849
+radian: -267.769
+radian: -270
+radian: -173.402
+radian: -270
+radian: -269.644
+radian: -173.755
+radian: 87.5805
+radian: -270
+radian: -174.549
+radian: -270
+radian: 89.5185
+radian: -175.126
+radian: -267.357
+radian: 89.8791
+radian: -175.755
+radian: -269.076
+radian: -269.757
+radian: -176.156
+radian: 88.0585
+radian: 89.8776
+radian: -176.795
+radian: -268.995
+radian: -269.754
+radian: -177.46
+radian: 87.8789
+radian: 89.8763
+radian: -177.896
+radian: -268.898
+radian: -269.751
+radian: -178.586
+radian: 87.6627
+radian: 89.8749
+radian: -179.045
+radian: -268.781
+radian: -269.748
+radian: -179.758
+radian: 86.0091
+radian: 89.7465
+radian: -180.49
+radian: -268.568
+radian: -269.745
+radian: -179.752
+radian: 86.9059
+radian: 89.8715
+radian: -180.503
+radian: -268.363
+radian: -269.742
+radian: -179.746
+radian: 86.4237
+radian: 89.8701
+radian: -180.514
+radian: -268.091
+radian: -269.739
+radian: -179.741
+radian: 85.7636
+radian: 89.8686
+radian: -180.526
+radian: -267.709
+radian: -269.736
+radian: -179.735
+radian: 84.8056
+radian: 89.8671
+radian: -180.538
+radian: -267.138
+radian: -269.732
+radian: -179.727
+radian: 83.2902
+radian: 89.8655
+radian: -180.551
+radian: -265.914
+radian: -269.729
+radian: -179.721
+radian: 80.5377
+radian: 89.8639
+radian: -180.564
+radian: -263.66
+radian: -269.726
+radian: -179.714
+radian: 78.6901
+radian: 89.8629
+radian: -181.454
+radian: -231.34
+radian: -269.308
+radian: -266.987
+radian: -269.598
+radian: 87.2737
+radian: -270
+radian: -267.51
+radian: 89.6021
+radian: 87.8789
+radian: -270
+radian: -268.025
+radian: -269.608
+radian: 88.2101
+radian: -270
+radian: -266.634
+radian: 89.612
+radian: 88.4519
+radian: -270
+radian: -267.138
+radian: -269.617
+radian: 88.6678
+radian: -269.873
+radian: -267.51
+radian: 89.7481
+radian: 88.8065
+radian: -269.875
+radian: -267.754
+radian: 89.7509
+radian: 88.9391
+radian: -269.876
+
+pikachu takes damage from ::ThunderShock:: by pikachu
+type multiplier: 0.5
+Amount of dmg: 2
+pikachu: 17/19 HP
+radian: -267.99
+radian: 89.7536
+radian: 89.0452
+radian: -269.878
+radian: -208.283
+radian: -268.182
+radian: 89.7572
+radian: -209.204
+radian: 89.1319
+radian: -269.879
+radian: -210.033
+radian: -268.34
+radian: 89.7603
+radian: -211.319
+radian: 89.2043
+radian: -269.881
+radian: -212.311
+radian: -268.452
+radian: 89.7627
+radian: -213.254
+radian: 88.5312
+radian: -269.765
+radian: -214.712
+radian: -269.293
+radian: 89.8831
+radian: -215.66
+radian: 88.6361
+radian: -269.767
+radian: -216.552
+radian: -269.341
+radian: 89.8845
+radian: -217.666
+radian: 88.7127
+radian: -269.77
+radian: -218.784
+radian: -270
+radian: -270
+radian: -219.703
+radian: -268.191
+radian: 89.659
+radian: -220.861
+radian: -270
+radian: -270
+radian: -221.967
+radian: 88.2986
+radian: -269.662
+radian: -222.921
+radian: -270
+radian: -270
+radian: -224.055
+radian: -268.394
+radian: 89.6669
+radian: -225.189
+radian: -270
+radian: -270
+radian: -226.507
+radian: 88.4792
+radian: -269.671
+radian: -227.834
+radian: -270
+radian: -270
+radian: -228.789
+radian: -268.568
+radian: 89.6751
+radian: -230.092
+radian: -270
+radian: -270
+radian: -231.216
+radian: 88.6361
+radian: -269.679
+radian: -232.496
+radian: -270
+radian: -270
+radian: -233.344
+radian: -268.603
+radian: 89.6769
+radian: -233.349
+radian: -269.523
+radian: 89.8917
+radian: -233.463
+radian: 89.029
+radian: -269.783
+radian: -233.64
+radian: -269.502
+radian: 89.8907
+radian: -233.824
+radian: 88.977
+radian: -269.78
+radian: -233.951
+radian: -269.474
+radian: 89.8894
+radian: -234.149
+radian: 89.4645
+radian: -269.889
+radian: -234.355
+radian: -268.888
+radian: 89.7762
+radian: -234.572
+radian: 88.8542
+radian: -269.775
+radian: -235.061
+radian: 87.6627
+radian: 89.3206
+radian: -236.402
+radian: 85.7411
+radian: 88.9749
+radian: -238.736
+radian: 83.7289
+radian: 88.5106
+radian: -241.125
+radian: 81.5966
+radian: 88.2713
+radian: -243.608
+radian: 78.6901
+radian: 87.7929
+radian: -246.695
+radian: 76.1303
+radian: 87.4293
+radian: -249.692
+radian: 74.4385
+radian: 87.1844
+radian: -252.541
+radian: 71.1139
+radian: 86.6959
+radian: -256.185
+radian: 69.2744
+radian: 86.4385
+radian: -259.061
+radian: 67.0942
+radian: 86.0671
+radian: -262.632
+radian: 64.113
+radian: 85.8034
+radian: -266.961
+radian: 61.0203
+radian: 85.4165
+radian: 88.9678
+radian: 57.8288
+radian: 85.025
+radian: 87.3246
+radian: 54.5543
+radian: 84.629
+radian: 85.643
+radian: 52.3344
+radian: 84.3625
+radian: 84.4007
+radian: 48.3665
+radian: 83.8364
+radian: 82.0304
+radian: 46.1233
+radian: 83.5505
+radian: 80.6335
+radian: 42.1659
+radian: 83.1375
+radian: 78.5729
+radian: 39.9079
+radian: 82.8595
+radian: 77.0054
+radian: 36.0851
+radian: 82.314
+radian: 74.31
+radian: 33.2544
+radian: 82.0129
+radian: 72.3777
+radian: 28.9797
+radian: 81.4378
+radian: 69.291
+radian: 25.887
+radian: 81.0008
+radian: 66.7139
+radian: 22.9058
+radian: 80.5588
+radian: 64.0412
+radian: 20.9849
+radian: 80.2615
+radian: 61.8868
+radian: 17.3116
+radian: 79.6602
+radian: 58.4382
+radian: 80.0608
+radian: 58.6429
+radian: 78.3017
+radian: 49.5538
+
+pikachu takes damage from ::ThunderShock:: by pikachu
+type multiplier: 0.5
+Amount of dmg: 2
+pikachu: 16/18 HP
+radian: 13.627
+radian: 77.9609
+radian: 47.5336
+radian: 12.2883
+radian: 77.6446
+radian: 45
+radian: 9.72758
+radian: 77.0054
+radian: 41.4552
+radian: 8.50458
+radian: 76.6824
+radian: 38.8845
+radian: 6.67989
+radian: 76.0622
+radian: 35.4555
+radian: 4.51399
+radian: 75.534
+radian: 32.5249
+radian: 2.93567
+radian: 75.0333
+radian: 29.6591
+radian: 1.4321
+radian: 74.5275
+radian: 26.2587
+radian: 2.60732e-06
+radian: 73.8836
+radian: 23.2861
+radian: 1.35319
+radian: 73.3274
+radian: 20.709
+radian: 0.440727
+radian: 72.8046
+radian: 18.2325
+radian: -0.868053
+radian: 72.3195
+radian: 15.8594
+radian: 0.424403
+radian: 71.922
+radian: 14.3354
+radian: -0.836375
+radian: 71.565
+radian: 12.2648
+radian: 2.60732e-06
+radian: 70.891
+radian: 10.6197
+radian: 1.60226
+radian: 70.4807
+radian: 8.1301
+radian: 2.60732e-06
+radian: 69.7467
+radian: 6.15517
+radian: 1.15345
+radian: 69.3765
+radian: 4.39871
+radian: 2.60732e-06
+radian: 68.817
+radian: 2.67543
+radian: 1.10882
+radian: 68.2526
+radian: 1.56222
+radian: 0.362624
+radian: 67.7387
+radian: 2.60732e-06
+radian: -0.71171
+radian: 67.1663
+radian: 1.48146
+radian: 0.351505
+radian: 66.7242
+radian: -0.485549
+radian: -0.686145
+radian: 66.0076
+radian: 1.40863
+radian: 0.337031
+radian: 65.3596
+radian: -0.458358
+radian: -0.658544
+radian: 64.6326
+radian: 0.888235
+radian: 0.325543
+radian: 64.1703
+radian: -0.437362
+radian: -0.636591
+radian: 63.435
+radian: 0.848763
+radian: 0.313092
+radian: 62.8297
+radian: 2.60732e-06
+radian: -0.619386
+radian: 62.354
+radian: 0.818457
+radian: 0.304759
+radian: 61.7403
+radian: -0.400663
+radian: -0.301557
+radian: 61.3289
+radian: 0.790235
+radian: 0.590657
+radian: 60.501
+radian: -0.38453
+radian: -0.290841
+radian: 59.8757
+radian: 0.753851
+radian: 0.572939
+radian: 59.1151
+radian: -0.369647
+radian: -0.282241
+radian: 58.6142
+radian: 0.725225
+radian: 0.278135
+radian: 57.9783
+radian: -0.355871
+radian: -0.274141
+radian: 57.3391
+radian: 0.698697
+radian: 0.543071
+radian: 56.9112
+radian: -0.345154
+radian: -0.267734
+radian: 56.2669
+radian: 0.678022
+radian: 0.264037
+radian: 55.6197
+radian: -0.333113
+radian: -0.260433
+radian: 54.9697
+radian: 0.654779
+radian: 0.258088
+radian: 54.408
+radian: -0.323701
+radian: -0.509284
+radian: 53.8807
+radian: 0.636597
+radian: 0.251299
+radian: 53.2241
+radian: 2.60732e-06
+radian: -0.498212
+radian: 52.7851
+radian: 0.619392
+radian: 0.245903
+radian: 52.125
+radian: 2.60732e-06
+radian: -0.242776
+radian: 51.463
+radian: 0.599932
+radian: 0.240739
+radian: 51.0207
+radian: 2.60732e-06
+radian: -0.473507
+radian: 50.1339
+radian: 0.872457
+radian: 0.725225
+radian: 50.2356
+radian: 2.60732e-06
+radian: 48.3533
+radian: 0.67669
+radian: 47.5671
+radian: 2.60732e-06
+radian: 47.0135
+radian: 0.666199
+radian: 46.5663
+radian: 2.60732e-06
+radian: 45.8952
+radian: 0.651063
+radian: 45.2238
+radian: 2.60732e-06
+radian: 45.2265
+radian: 0.666199
+radian: 45.3431
+radian: 2.60732e-06
+radian: 45.231
+radian: 0.679367
+radian: 45.3501
+radian: 2.60732e-06
+radian: 45.2358
+radian: 0.693062
+radian: 45.3574
+radian: 2.60732e-06
+radian: 45.2407
+radian: 0.707317
+radian: 45.2438
+radian: 2.60732e-06
+radian: 45.3697
+radian: 0.24175
+radian: 45
+radian: -1.46255
+radian: 44.3591
+radian: -2.46812
+radian: 43.4162
+
+pikachu takes damage from ::ThunderShock:: by pikachu
+type multiplier: 0.5
+Amount of dmg: 1
+pikachu: 26/28 HP
+radian: -3.26333
+radian: 42.5576
+radian: -4.3208
+radian: 41.6335
+radian: -5.68705
+radian: -4.86994
+radian: 40.6894
+radian: -6.47227
+radian: -5.7106
+radian: 39.6718
+radian: -7.275
+radian: -6.60208
+radian: 38.5926
+radian: -7.85331
+radian: -7.19091
+radian: 37.6226
+radian: -8.65254
+radian: -8.35807
+radian: 36.2292
+radian: -9.54452
+radian: -9.01505
+radian: 35.1271
+radian: -10.3724
+radian: -9.96014
+radian: 34.0243
+radian: -11.0105
+radian: -11.2008
+radian: 32.5096
+radian: -12.1665
+radian: -11.8598
+radian: 31.0519
+radian: -13.0919
+radian: -12.8671
+radian: 29.876
+radian: -13.7193
+radian: -13.6185
+radian: 28.264
+radian: -14.4208
+radian: -14.3168
+radian: 26.6901
+radian: -15.325
+radian: -15.6647
+radian: 24.4919
+radian: -16.6477
+radian: -14.9899
+radian: -15.9834
+radian: -19.006
+radian: -19.3941
+radian: -19.8791
+radian: -20.4584
+radian: -21.0596
+radian: -21.2796
+radian: -21.8588
+radian: -22.2728
+radian: -23.3621
+radian: -23.4986
+radian: -24.5998
+radian: -24.5151
+radian: -25.8577
+radian: -26.0477
+radian: -27.2812
+radian: -26.9566
+radian: -28.1482
+radian: -28.0037
+radian: -29.7449
+radian: -29.1975
+
+pikachu takes damage from ::ThunderShock:: by pikachu
+type multiplier: 0.5
+Amount of dmg: 2
+pikachu: 14/18 HP
+radian: -30.63
+radian: 2.5448
+radian: -30.1497
+radian: -31.6932
+radian: 0.323699
+radian: -31.2184
+radian: -33.3263
+radian: -2.63243
+radian: -32.4483
+radian: -34.4234
+radian: -3.65928
+radian: -33.4399
+radian: -36.076
+radian: -4.76364
+radian: -34.9427
+radian: -37.0025
+radian: -5.84725
+radian: -35.9605
+radian: -38.4001
+radian: -6.64865
+radian: -37.0516
+radian: -39.3363
+radian: -7.78104
+radian: -38.0888
+radian: -40.4922
+radian: -8.63713
+radian: -39.1824
+radian: -42.1612
+radian: -10.1755
+radian: -40.469
+radian: -43.1066
+radian: -11.0937
+radian: -41.5578
+radian: -44.5265
+radian: -12.4074
+radian: -42.623
+radian: -45.7132
+radian: -13.3925
+radian: -43.9191
+radian: -47.3662
+radian: -15.1541
+radian: -45.4341
+radian: -48.5615
+radian: -16.2134
+radian: -46.7357
+radian: -50.1944
+radian: -18.0605
+radian: -47.8085
+radian: -51.3924
+radian: -19.1955
+radian: -49.101
+radian: -52.9975
+radian: -20.9797
+radian: -50.3893
+radian: -54.3855
+radian: -22.3354
+radian: -51.6722
+radian: -55.3048
+radian: -23.7948
+radian: -52.7652
+radian: -57.1271
+radian: -26.0033
+radian: -54.2167
+radian: -58.0292
+radian: -27.1305
+radian: -55.476
+radian: -59.6499
+radian: -28.8481
+radian: -56.5601
+radian: -61.1328
+radian: -30.8157
+radian: -57.963
+radian: -62.0029
+radian: -32.3718
+radian: -59.0362
+radian: -63.1492
+radian: -33.8112
+radian: -59.9987
+radian: -64.5638
+radian: -35.9952
+radian: -61.2021
+radian: -65.4002
+radian: -37.2209
+radian: -62.3909
+radian: -66.6379
+radian: -38.7289
+radian: -63.1751
+radian: -67.4515
+radian: -40.3141
+radian: -64.2127
+radian: -68.542
+radian: -41.855
+radian: -65.1045
+radian: -69.8352
+radian: -44.0608
+radian: -66.2401
+radian: -70.6102
+radian: -45.3131
+radian: -67.3584
+radian: -46.3322
+radian: -68.416
+
+pikachu takes damage from ::ThunderShock:: by pikachu
+type multiplier: 0.5
+Amount of dmg: 2
+pikachu: 12/18 HP
+radian: -72.2659
+radian: -50.9275
+radian: -70.5139
+radian: -73.3008
+radian: -52.7791
+radian: -71.3925
+radian: -74.3159
+radian: -54.6146
+radian: -72.3381
+radian: -74.9816
+radian: -55.8275
+radian: -73.2749
+radian: -75.9638
+radian: -57.6282
+radian: -74.2753
+radian: -76.9261
+radian: -59.1843
+radian: -75.0004
+radian: -77.8134
+radian: -60.5725
+radian: -75.8999
+radian: -78.4862
+radian: -62.3005
+radian: -76.9081
+radian: -79.3961
+radian: -63.9967
+radian: -77.5271
+radian: -79.992
+radian: -65.1087
+radian: -78.3885
+radian: -80.8698
+radian: -66.7474
+radian: -79.3338
+radian: -81.7286
+radian: -68.1986
+radian: -79.9194
+radian: -82.5686
+radian: -69.914
+radian: -80.7824
+radian: -83.1183
+radian: -70.9355
+radian: -81.5911
+radian: -83.9275
+radian: -72.3156
+radian: -82.18
+radian: -84.7188
+radian: -73.5231
+radian: -82.9945
+radian: -85.2364
+radian: -74.8459
+radian: -83.7914
+radian: -85.9982
+radian: -76.2392
+radian: -84.313
+radian: -86.4965
+radian: -77.1459
+radian: -85.0809
+radian: -87.2298
+radian: -78.4728
+radian: -85.8151
+radian: -87.9464
+radian: -79.7602
+radian: -86.5664
+radian: -88.6468
+radian: -80.9524
+radian: -87.0469
+radian: -89.1048
+radian: -81.8198
+radian: -87.7543
+radian: -89.7788
+radian: -82.9621
+radian: -88.217
+radian: -90.4374
+radian: -84.1527
+radian: -89.122
+radian: -89.7838
+radian: -85.2644
+radian: -89.7821
+radian: -90.2138
+radian: -86.3194
+radian: -90.2154
+radian: -89.7878
+radian: -87.0391
+radian: -89.7862
+radian: -90.4213
+radian: -88.0475
+radian: -90.2114
+radian: -89.7924
+radian: -89.0452
+radian: -89.7909
+radian: -90.4107
+radian: -90
+radian: -90.4137
+radian: -89.7961
+radian: -90.9341
+radian: -89.7946
+radian: -90.4035
+radian: -90
+radian: -90.4063
+radian: -89.8004
+radian: -89.1001
+radian: -89.7997
+radian: -90.3951
+radian: -90
+radian: -90.3979
+radian: -89.8038
+radian: -90.8769
+radian: -89.8024
+radian: -90.5807
+radian: -89.7121
+radian: -90.5846
+radian: -90
+radian: -90.5673
+radian: -90
+radian: -89.429
+radian: -89.7205
+radian: -89.4271
+radian: -90
+radian: -90.5536
+radian: -90
+radian: -90.5599
+radian: -90
+radian: -90.5635
+radian: -90
+radian: -89.1931
+radian: -90
+radian: -89.6255
+radian: -89.7272
+radian: -89.4365
+radian: -90
+radian: -90.5509
+radian: -90
+radian: -90.571
+radian: -89.7191
+radian: -90.5749
+radian: -90
+radian: -90.5701
+radian: -90
+radian: -89.4154
+radian: -89.4213
+radian: -89.4114
+radian: -90
+radian: -90.5876
+radian: -90
+radian: -90.5968
+radian: -89.4001
+radian: -90.601
+radian: -90
+radian: -90.6095
+radian: -90
+radian: -89.3883
+radian: -89.6903
+radian: -89.3839
+radian: -90
+radian: -90.6296
+radian: -90
+radian: -90.625
+radian: -89.6781
+radian: -90.6296
+radian: -90
+radian: -90.6548
+radian: -90
+radian: -89.3587
+radian: -89.6669
+radian: -89.3538
+radian: -90
+radian: -90.678
+radian: -90
+radian: -90.656
+radian: -89.6528
+radian: -90.6611
+radian: -90.2212
+radian: -90.3515
+radian: -90.2229
+radian: -89.5541
+radian: -89.6419
+radian: -89.5506
+radian: -90.2265
+radian: -90.7298
+radian: -90.2283
+radian: -89.7717
+radian: -89.628
+radian: -89.7699
+radian: -90.4621
+radian: -90.7538
+radian: -90.2329
+radian: -89.7671
+radian: -89.6155
+radian: -89.7652
+radian: -90.4716
+radian: -90.7795
+radian: -90.2377
+radian: -89.5225
+radian: -89.5993
+radian: -89.5185
+radian: -90.2397
+radian: -90.4007
+radian: -90.2418
+radian: -89.5245
+radian: -89.6049
+radian: -89.5225
+radian: -90.2348
+radian: -90.3871
+radian: -90.2368
+radian: -89.5361
+radian: -89.2412
+radian: -89.3013
+radian: -90.2292
+radian: -90.372
+radian: -90.2301
+radian: -89.5471
+radian: -89.6351
+radian: -89.5453
+radian: -90.2238
+radian: -90.3581
+radian: -90.2256
+radian: -89.5559
+radian: -89.6463
+radian: -89.5541
+radian: -90.2195
+radian: -90.3472
+radian: -90.2212
+radian: -89.5643
+radian: -89.6569
+radian: -89.5626
+radian: -90.2146
+radian: -90.6701
+radian: -90.2162
+radian: -89.787
+radian: -89.6688
+radian: -89.7862
+radian: -90.2106
+radian: -90.6511
+radian: -90.2122
+radian: -89.7909
+radian: -89.6781
+radian: -89.7901
+radian: -90.2068
+radian: -90.6366
+radian: -90.2084
+radian: -89.5908
+radian: -89.3772
+radian: -89.5893
+radian: -90.2025
+radian: -90.3064
+radian: -90
+radian: -89.5979
+radian: -89.3937
+radian: -90.6052
+radian: -90.1983
+radian: -90.5937
+radian: -90
+radian: -89.5993
+radian: -89.3937
+radian: -89.1931
+radian: -90.2025
+radian: -90.3064
+radian: -89.7961
+radian: -88.9659
+radian: -91.0379
+radian: -89.5818
+radian: -90.4197
+radian: -90.2106
+radian: -89.7878
+radian: -89.574
+radian: -90.2146
+radian: -90.2154
+radian: -89.7838
+radian: -89.5659
+radian: -90.2187
+radian: -90.2195
+radian: -89.7788
+radian: -89.5559
+radian: -90.2229
+radian: -90.2238
+radian: -89.7744
+radian: -89.5471
+radian: -90.2283
+radian: -90.2283
+radian: -89.7699
+radian: -89.5379
+radian: -90.4658
+radian: -90.2339
+radian: -89.7652
+radian: -89.5265
+radian: -90.4775
+
+pikachu takes damage from ::ThunderShock:: by pikachu
+type multiplier: 0.5
+Amount of dmg: 1
+pikachu: 25/28 HP
+radian: -90.2397
+radian: -90.3064
+radian: -89.7582
+radian: -89.5145
+radian: -89.3772
+radian: -90.4897
+radian: -90.247
+radian: -90.3183
+radian: -89.752
+radian: -89.5018
+radian: -89.6781
+radian: -90.5026
+radian: -90.2524
+radian: -90.3274
+radian: -89.7454
+radian: -89.4884
+radian: -89.3338
+radian: -90.5162
+radian: -90.2604
+radian: -90.341
+radian: -89.7384
+radian: -89.4719
+radian: -89.3055
+radian: -90.533
+radian: -90.2677
+radian: -90.3537
+radian: -89.7297
+radian: -89.4569
+radian: -89.2793
+radian: -90.5483
+radian: -90
+radian: -90.3673
+radian: -89.7219
+radian: -90.8343
+radian: -89.2559
+radian: -90.5617
+radian: -89.7164
+radian: -90.382
+radian: -89.7135
+radian: -90.5729
+radian: -89.6129
+radian: -90.2894
+radian: -88.8188
+radian: -92.0166
+radian: -89.7
+radian: -90.8243
+radian: -90.6095
+radian: -89.5787
+radian: -89.6903
+radian: -90.8615
+radian: -90.6331
+radian: -89.5559
+
+pikachu takes damage from ::ThunderShock:: by pikachu
+type multiplier: 0.5
+Amount of dmg: 2
+pikachu: 17/19 HP
+radian: -89.6781
+radian: -90.9094
+radian: -90.2894
+radian: -90.6548
+radian: -89.5342
+radian: -89.4124
+radian: -89.6669
+radian: -90.9548
+radian: -90.2984
+radian: -90.6821
+radian: -89.5061
+radian: -89.3905
+radian: -89.3055
+radian: -91.014
+radian: -90.3097
+radian: -90.7073
+radian: -89.4791
+radian: -89.3704
+radian: -89.6397
+radian: -91.0708
+radian: -90.3201
+radian: -90.7345
+radian: -88.8983
+radian: -89.0235
+radian: -92.3373
+radian: -91.011
+
+pikachu takes damage from ::ThunderShock:: by pikachu
+type multiplier: 0.5
+Amount of dmg: 2
+pikachu: 10/18 HP
+radian: -90.6701
+radian: -91.0416
+radian: -90
+radian: -90
+radian: -89.4974
+radian: -89.3839
+radian: -89.029
+radian: -90.4939
+radian: -90
+radian: -90.3183
+radian: -89.0371
+radian: -91.1997
+radian: -89.0659
+radian: -90.4658
+radian: -90.2938
+radian: -90.308
+radian: -89.0906
+radian: -89.132
+radian: -89.0906
+radian: -90.4476
+radian: -90.2865
+radian: -90
+radian: -89.5626
+radian: -89.4355
+radian: -90.8814
+radian: -90.8551
+radian: -90.2781
+radian: -89.7106
+radian: -89.1636
+radian: -89.1776
+radian: -90.5729
+radian: -90.4122
+radian: -90
+radian: -89.7191
+radian: -89.1987
+radian: -90.533
+radian: -90.5563
+radian: -90.3951
+radian: -90
+radian: -89.7245
+radian: -89.2205
+radian: -89.2152
+radian: -90.5431
+radian: -90.3794
+radian: -90
+radian: -89.7323
+radian: -89.2511
+radian: -90.5093
+radian: -90.5281
+radian: -90.3673
+radian: -90
+radian: -89.7396
+radian: -89.2793
+radian: -89.2559
+radian: -90.5162
+radian: -90.3559
+radian: -90
+radian: -89.7442
+radian: -89.3013
+radian: -90.4855
+radian: -90.5048
+radian: -90.3452
+radian: -90
+radian: -89.5018
+radian: -88.989
+radian: -89.2898
+radian: -90.2459
+radian: -90
+radian: -89.7652
+radian: -89.5124
+radian: -90.9878
+radian: -90.4658
+radian: -90.2397
+radian: -90
+radian: -89.7708
+radian: -89.5245
+radian: -89.0452
+radian: -90.4547
+radian: -90.2358
+radian: -90
+radian: -89.7744
+radian: -89.7671
+radian: -90.929
+radian: -90.4459
+radian: -90.231
+radian: -90
+radian: -89.7788
+radian: -89.7717
+radian: -89.3969
+radian: -90.4374
+radian: -90.2256
+radian: -90
+radian: -89.7838
+radian: -89.5541
+radian: -90.8769
+radian: -90.4276
+radian: -90.2204
+radian: -90.2879
+radian: -89.7886
+radian: -89.344
+radian: -89.1491
+radian: -90.6296
+radian: -90
+radian: -90
+radian: -90
+radian: -90.4276
+radian: -90.8303
+radian: -89.5893
+radian: -90
+radian: -90
+radian: -90
+radian: -89.3704
+radian: -89.1893
+radian: -90.6052
+radian: -90
+radian: -90
+radian: -90
+radian: -90.6183
+radian: -90.7921
+radian: -89.4053
+radian: -90
+radian: -90
+radian: -90
+radian: -89.5965
+radian: -89.4862
+radian: -90.5826
+radian: -90
+radian: -90
+radian: -90
+radian: -90.5968
+radian: -90.7538
+radian: -89.4271
+radian: -90
+radian: -90
+radian: -90
+radian: -89.4134
+radian: -89.2591
+radian: -90.5654
+radian: -90
+radian: -90
+radian: -90
+radian: -90.5968
+radian: -90.7572
+radian: -89.6168
+radian: -90
+radian: -90
+radian: -90
+radian: -89.3926
+radian: -89.2258
+radian: -90.5846
+radian: -90
+radian: -90
+radian: -90
+radian: -90.4137
+radian: -90.7921
+radian: -89.6035
+radian: -90
+radian: -90
+radian: -90
+radian: -89.3681
+radian: -89.1893
+radian: -90.6074
+radian: -90
+radian: -90
+radian: -90
+radian: -90.6437
+radian: -90.8343
+radian: -89.5878
+radian: -90
+radian: -90
+radian: -90
+radian: -89.344
+radian: -89.4299
+radian: -90.6296
+radian: -90
+radian: -90
+radian: -90
+inertness = false
+radian: -91.3426
+radian: -91.7534
+radian: -90
+radian: -92.0293
+radian: -92.6699
+radian: -90.8648
+radian: -92.7372
+radian: -93.595
+radian: -91.3069
+radian: -93.4613
+radian: -94.5861
+radian: -92.2111
+radian: -94.2019
+radian: -95.5572
+radian: -92.6838
+radian: -94.9595
+radian: -96.618
+radian: -93.6186
+radian: -95.7343
+radian: -97.6366
+radian: -94.1018
+radian: -96.2869
+radian: -98.7708
+radian: -94.8596
+radian: -97.3368
+radian: -99.8939
+radian: -95.8501
+radian: -98.165
+radian: -100.985
+radian: -96.3924
+radian: -99.0115
+radian: -102.236
+radian: -97.4211
+radian: -99.8766
+radian: -103.377
+radian: -97.9935
+radian: -100.464
+radian: -104.287
+radian: -98.5428
+radian: -101.109
+radian: -105.562
+radian: -99.3815
+radian: -101.968
+radian: -106.429
+radian: -99.9506
+radian: -102.642
+radian: -107.418
+radian: -100.819
+radian: -103.782
+radian: -109.002
+radian: -101.655
+radian: -104.487
+radian: -110.045
+radian: -102.556
+radian: -105.208
+radian: -111.46
+radian: -103.226
+radian: -106.466
+radian: -112.762
+radian: -104.099
+radian: -107.143
+radian: -113.886
+radian: -105.049
+radian: -108.174
+radian: -115.221
+radian: -105.693
+radian: -108.872
+radian: -116.395
+radian: -106.674
+radian: -109.935
+radian: -117.759
+radian: -107.338
+radian: -110.655
+radian: -118.98
+radian: -108.35
+radian: -111.749
+radian: -120.368
+radian: -109.123
+radian: -112.489
+radian: -121.633
+radian: -109.819
+radian: -113.35
+radian: -123.254
+radian: -110.879
+radian: -114.372
+radian: -124.346
+radian: -111.595
+radian: -115.263
+radian: -125.998
+radian: -112.684
+radian: -116.696
+radian: -127.424
+radian: -113.678
+radian: -116.157
+radian: -113.16
+radian: -119.892
+radian: -116.822
+radian: -121.118
+radian: -118.242
+radian: -122.356
+radian: -119.026
+radian: -123.188
+radian: -120.215
+radian: -124.446
+radian: -121.165
+radian: -125.291
+radian: -121.974
+radian: -126.565
+radian: -123.445
+radian: -127.848
+radian: -124.265
+radian: -128.708
+radian: -125.503
+radian: -130.002
+radian: -126.511
+radian: -131.07
+radian: -127.349
+radian: -132.17
+radian: -128.613
+radian: -133.475
+radian: -130.113
+radian: -134.782
+radian: -131.158
+radian: -135.875
+radian: -132.01
+radian: -136.96
+radian: -133.509
+radian: -138.264
+radian: -134.787
+radian: -139.565
+radian: -135.639
+radian: -140.43
+radian: -136.916
+radian: -141.722
+radian: -138.192
+radian: -143.008
+radian: -139.04
+radian: -143.13
+radian: -139.531
+radian: -143.509
+radian: -139.635
+radian: -143.452
+radian: -139.502
+radian: -143.658
+radian: -139.821
+radian: -144.072
+radian: -139.686
+radian: -144.023
+radian: -140.021
+radian: -144.258
+radian: -140.15
+
+pikachu takes damage from ::ThunderShock:: by pikachu
+Critical strike !
+type multiplier: 0.5
+Amount of dmg: 5
+pikachu: 5/18 HP
+radian: -144.713
+radian: -151.635
+radian: -140.013
+radian: -144.676
+radian: -151.928
+radian: -140.38
+radian: -145.33
+radian: -152.65
+radian: -145.864
+radian: -152.868
+radian: -146.195
+radian: -153.204
+radian: -146.192
+radian: -153.553
+radian: -146.553
+radian: -153.914
+radian: -147.184
+radian: -154.163
+radian: -147.209
+radian: -154.549
+radian: -147.639
+radian: -154.949
+radian: -148.36
+radian: -155.225
+radian: -148.426
+radian: -155.653
+radian: -148.946
+radian: -156.218
+radian: -149.315
+radian: -156.405
+radian: -149.906
+radian: -157.003
+
+pikachu takes damage from ::ThunderShock:: by pikachu
+type multiplier: 0.5
+Amount of dmg: 1
+pikachu: 24/28 HP
+radian: -150.327
+radian: -157.212
+radian: -158.078
+radian: -140.38
+
+pikachu takes damage from ::ThunderShock:: by pikachu
+type multiplier: 0.5
+Amount of dmg: 2
+pikachu: 3/18 HP
+radian: -150.327
+radian: -158.629
+radian: -140.528
+radian: -151.535
+radian: -159.206
+radian: -140.684
+radian: -152.003
+radian: -160.136
+radian: -140.849
+radian: -153.138
+radian: -160.442
+radian: -141.024
+radian: -153.435
+radian: -161.105
+radian: -140.886
+radian: -154.722
+radian: -161.565
+radian: -141.34
+radian: -155.493
+radian: -162.532
+radian: -141.271
+radian: -156.695
+radian: -163.04
+radian: -141.766
+inertness = false
+radian: -159.538
+radian: -164.268
+radian: -143.13
+radian: -161.565
+radian: -165.59
+radian: -144.409
+radian: -164.678
+radian: -167.062
+radian: -146.56
+radian: -168.111
+radian: -168.398
+radian: -148.805
+radian: -170.655
+radian: -170.119
+radian: -150.859
+radian: -173.047
+radian: -171.309
+radian: -152.447
+radian: -175.292
+radian: -172.219
+radian: -154.406
+radian: -177.397
+radian: -173.351
+radian: -155.95
+radian: -178.741
+radian: -174.495
+radian: -157.643
+radian: -180.616
+radian: -175.575
+radian: -158.749
+radian: -178.819
+radian: -176.673
+radian: -160.907
+radian: -180
+radian: -177.709
+radian: -162.084
+radian: -181.685
+radian: -178.382
+radian: -163.496
+radian: -180
+radian: -179.367
+radian: -165.094
+radian: -181.061
+radian: -180.313
+radian: -166.059
+radian: -180
+radian: -179.384
+radian: -167.471
+radian: -181.014
+radian: -180.305
+radian: -168.766
+radian: -180
+radian: -179.397
+radian: -169.661
+radian: -180.971
+radian: -180.297
+radian: -170.969
+radian: -179.526
+radian: -179.418
+radian: -172.284
+radian: -180.462
+radian: -180
+radian: -173.46
+radian: -179.098
+radian: -180.851
+radian: -174.644
+radian: -180.444
+radian: -180.279
+radian: -175.44
+radian: -179.138
+radian: -179.174
+radian: -176.553
+radian: -180
+radian: -180
+radian: -177.628
+radian: -181.245
+radian: -180.538
+radian: -178.66
+radian: -180
+radian: -180
+radian: -179.338
+radian: -181.202
+radian: -180.526
+radian: -180.326
+radian: -180
+radian: -180
+radian: -179.356
+radian: -181.161
+radian: -180.512
+radian: -180.315
+radian: -180
+radian: -180
+radian: -179.377
+radian: -181.123
+radian: -180.503
+radian: -180.306
+radian: -180
+radian: -180
+radian: -179.394
+radian: -181.081
+radian: -180.731
+radian: -180.297
+radian: -180
+radian: -180
+radian: -179.412
+radian: -181.38
+radian: -180.713
+radian: -180.576
+radian: -180.341
+radian: -180.236
+radian: -179.715
+radian: -179.314
+radian: -179.526
+radian: -180.57
+radian: -180.347
+radian: -180
+radian: -179.711
+radian: -178.932
+radian: -180.967
+radian: -180.881
+radian: -180
+radian: -180.245
+radian: -180
+radian: -180.735
+radian: -179.506
+radian: -180.603
+radian: -179.626
+radian: -180.503
+radian: -179.692
+radian: -180.764
+radian: -179.746
+radian: -180.623
+radian: -179.613
+radian: -180.514
+radian: -179.683
+radian: -181.975
+radian: -180.521
+radian: -181.609
+radian: -183.225
+radian: -181.32
+radian: -182.617
+radian: -184.934
+radian: -182.408
+radian: -183.991
+radian: -186.294
+radian: -182.984
+radian: -185.072
+radian: -187.284
+radian: -183.851
+radian: -185.847
+radian: -188.746
+radian: -184.441
+radian: -186.953
+radian: -190.265
+radian: -185.654
+radian: -188.18
+radian: -191.75
+radian: -186.277
+radian: -189.345
+radian: -192.926
+radian: -187.232
+radian: -190.24
+radian: -195.051
+radian: -188.213
+radian: -191.889
+radian: -196.336
+radian: -189.219
+radian: -192.854
+radian: -198.13
+radian: -189.904
+radian: -194.128
+radian: -199.817
+radian: -190.954
+radian: -195.524
+radian: -201.251
+radian: -192.031
+radian: -196.587
+radian: -203.003
+radian: -192.763
+radian: -197.939
+radian: -205.201
+radian: -194.265
+radian: -199.573
+radian: -207.022
+radian: -195.033
+radian: -200.98
+radian: -208.652
+radian: -196.209
+radian: -202.18
+radian: -210.518
+radian: -197.008
+radian: -203.629
+radian: -212.229
+radian: -198.229
+radian: -204.891
+radian: -214.862
+radian: -199.477
+radian: -206.94
+radian: -217.405
+radian: -201.181
+radian: -208.848
+radian: -219.327
+radian: -202.051
+radian: -210.379
+radian: -221.186
+radian: -203.377
+radian: -211.777
+radian: -223.103
+radian: -204.274
+radian: -213.331
+radian: -225.764
+radian: -206.102
+radian: -215.385
+radian: -228.411
+radian: -207.807
+radian: -217.569
+radian: -230.673
+radian: -208.918
+radian: -219.413
+radian: -232.595
+radian: -210.358
+radian: -220.937
+radian: -235.138
+radian: -212.118
+radian: -223.132
+radian: -237.328
+radian: -213.098
+radian: -224.69
+radian: -239.216
+radian: -214.786
+radian: -226.565
+radian: -241.595
+radian: -216.582
+radian: -228.731
+radian: -243.189
+radian: -229.297
+
+pikachu takes damage from ::ThunderShock:: by pikachu
+type multiplier: 0.5
+Amount of dmg: 2
+pikachu: 1/18 HP
+radian: -247.647
+radian: -221.186
+radian: -233.909
+radian: -248.927
+radian: -222.365
+radian: -235.469
+radian: -250.801
+radian: -223.322
+radian: -236.904
+radian: -252.474
+radian: -224.76
+radian: -238.815
+radian: -254.376
+radian: -226.432
+radian: -240.781
+radian: -256.075
+radian: -228.113
+radian: -242.496
+radian: -258.25
+radian: -229.545
+radian: -244.359
+radian: -259.735
+radian: -230.972
+radian: -246.205
+radian: -261.32
+radian: -232.595
+radian: -247.598
+radian: -262.716
+radian: -233.8
+radian: -249.397
+radian: -264.165
+radian: -235.389
+radian: -251.065
+radian: -265.507
+radian: -236.768
+radian: -252.181
+inertness = false
+radian: -265.57
+radian: -237.403
+radian: -252.784
+radian: -264.841
+radian: -236.936
+radian: -252.284
+radian: -263.788
+radian: -236.923
+radian: -251.565
+radian: -263.112
+radian: -236.482
+radian: -251.105
+radian: -261.817
+radian: -236.394
+radian: -250.228
+radian: -260.895
+radian: -236.146
+radian: -249.605
+radian: -260.013
+radian: -235.67
+radian: -249.011
+radian: -259.232
+radian: -235.607
+radian: -248.259
+radian: -258.357
+radian: -235.235
+radian: -247.9
+radian: -257.905
+radian: -235.098
+radian: -247.38
+radian: -257.079
+radian: -234.898
+radian: -247.046
+radian: -256.43
+radian: -234.858
+radian: -246.682
+radian: -255.432
+radian: -234.671
+radian: -245.947
+radian: -254.772
+radian: -234.492
+radian: -245.508
+radian: -254.219
+radian: -234.262
+radian: -244.949
+radian: -253.527
+radian: -233.955
+radian: -244.68
+radian: -253.025
+radian: -233.938
+radian: -244.408
+radian: -252.191
+radian: -233.784
+radian: -243.792
+on tej pas << ::PKMN::
+on tej pas << ::Player::
+We enter the room: 1
+
+On génère pikachu
+LEARN NEW ATK:ThunderShock
+exp: 0 -> 1 / 1
+[ExpManager]: totalExp=1 | next=1
+LEARN NEW ATK:Growl
+Level up ! now lvl 2
+%: 0
+exp: 1 -> 8 / 8
+[ExpManager]: totalExp=8 | next=8
+LEARN NEW ATK:TailWhip
+Level up ! now lvl 3
+%: 0
+exp: 8 -> 27 / 27
+[ExpManager]: totalExp=27 | next=27
+Level up ! now lvl 4
+%: 0
+exp: 27 -> 64 / 64
+[ExpManager]: totalExp=64 | next=64
+Level up ! now lvl 5
+%: 0
+max hp: 19
+
+On génère pikachu
+LEARN NEW ATK:ThunderShock
+exp: 0 -> 1 / 1
+[ExpManager]: totalExp=1 | next=1
+LEARN NEW ATK:Growl
+Level up ! now lvl 2
+%: 0
+exp: 1 -> 8 / 8
+[ExpManager]: totalExp=8 | next=8
+LEARN NEW ATK:TailWhip
+Level up ! now lvl 3
+%: 0
+exp: 8 -> 27 / 27
+[ExpManager]: totalExp=27 | next=27
+Level up ! now lvl 4
+%: 0
+exp: 27 -> 64 / 64
+[ExpManager]: totalExp=64 | next=64
+Level up ! now lvl 5
+%: 0
+max hp: 19
+
+On génère pikachu
+LEARN NEW ATK:ThunderShock
+exp: 0 -> 1 / 1
+[ExpManager]: totalExp=1 | next=1
+LEARN NEW ATK:Growl
+Level up ! now lvl 2
+%: 0
+exp: 1 -> 8 / 8
+[ExpManager]: totalExp=8 | next=8
+LEARN NEW ATK:TailWhip
+Level up ! now lvl 3
+%: 0
+exp: 8 -> 27 / 27
+[ExpManager]: totalExp=27 | next=27
+Level up ! now lvl 4
+%: 0
+exp: 27 -> 64 / 64
+[ExpManager]: totalExp=64 | next=64
+Level up ! now lvl 5
+%: 0
+max hp: 19
+radian: 70.1161
+radian: 33.1558
+radian: -46.4764
+radian: 72.7293
+radian: 35.8406
+radian: -47.1343
+radian: 72.8551
+radian: 35.7964
+radian: -47.1747
+radian: 72.982
+radian: 35.7517
+radian: -47.2168
+radian: 73.1099
+radian: 35.7067
+radian: -47.2605
+radian: 73.2389
+radian: 35.6612
+radian: -47.306
+radian: 73.369
+radian: 35.6153
+radian: -47.3533
+radian: 73.4564
+radian: 35.5844
+radian: -47.3859
+radian: 73.5884
+radian: 35.5377
+radian: -47.4366
+radian: 73.9007
+radian: 35.4269
+radian: 74.0364
+radian: 35.3787
+radian: 74.1276
+radian: 35.3462
+radian: 74.2653
+radian: 35.2971
+radian: 74.3577
+radian: 35.2642
+radian: 74.5443
+radian: 35.1975
+radian: 74.6384
+radian: 35.1638
+radian: 74.7805
+radian: 35.1129
+radian: 74.9239
+radian: 35.0615
+radian: 75.0686
+radian: 35.0095
+radian: 75.2145
+radian: 34.9569
+radian: 75.3617
+radian: 34.9039
+radian: 75.4606
+radian: 34.8682
+radian: 75.61
+radian: 34.8142
+radian: 75.7607
+radian: 34.7596
+radian: 75.9128
+radian: 34.7044
+
+pikachu takes damage from ::ThunderShock:: by pikachu
+type multiplier: 0.5
+Amount of dmg: 1
+pikachu: 23/28 HP
+radian: 76.1176
+radian: 34.6299
+radian: -47.4366
+radian: 76.2729
+radian: 34.5734
+radian: -47.4896
+radian: 76.4296
+radian: 34.5162
+radian: -47.5638
+radian: 76.5876
+radian: 34.4584
+radian: -47.6224
+radian: 76.8006
+radian: 34.3803
+radian: -47.6838
+radian: 76.9081
+radian: 34.3409
+radian: -47.7481
+radian: 77.0705
+radian: 34.2812
+radian: -47.8156
+radian: 77.1796
+radian: 34.241
+radian: -47.8624
+radian: 77.3445
+radian: 34.1801
+radian: -47.9357
+radian: 77.5109
+radian: 34.1186
+radian: -48.0128
+radian: 77.6789
+radian: 34.0564
+radian: -48.0665
+radian: 77.7917
+radian: 34.0145
+radian: -48.1507
+radian: 77.9623
+radian: 33.9511
+radian: -48.2095
+radian: 78.0768
+radian: 33.9084
+radian: -48.3019
+radian: 78.25
+radian: 33.8438
+radian: -48.3997
+radian: 78.4248
+radian: 33.7784
+radian: -48.4682
+radian: 78.5422
+radian: 33.7344
+radian: -48.5763
+radian: 78.7793
+radian: 33.6454
+radian: -48.6914
+radian: 78.899
+radian: 33.6003
+radian: -48.8141
+radian: 79.0798
+radian: 33.5321
+radian: -48.9452
+radian: 79.2014
+radian: 33.4862
+radian: -49.0377
+radian: 79.3851
+radian: 33.4166
+radian: -49.1849
+radian: 79.5705
+radian: 33.3462
+radian: -49.2892
+radian: 79.6952
+radian: 33.2987
+radian: -49.4556
+radian: 79.8836
+radian: 33.2269
+radian: -49.6355
+radian: 80.0738
+radian: 33.1542
+radian: -49.7636
+radian: 80.2016
+radian: 33.1052
+radian: -49.9697
+radian: 80.3948
+radian: 33.031
+radian: -50.1173
+radian: 80.5247
+radian: 32.981
+radian: -50.3558
+radian: 80.721
+radian: 32.9052
+radian: -50.6176
+radian: 80.8529
+radian: 32.8542
+radian: -50.8067
+radian: 81.0524
+radian: 32.7769
+radian: -51.1155
+radian: 81.1865
+radian: 32.7248
+radian: -51.3402
+radian: 81.3892
+radian: 32.6458
+radian: -51.7098
+radian: 81.5939
+radian: 32.5658
+radian: -51.9811
+radian: 81.7314
+radian: 32.5119
+radian: -52.4314
+radian: 81.9395
+radian: 32.4302
+radian: -52.9435
+radian: 82.1495
+radian: 32.3474
+radian: -53.5308
+radian: 82.3616
+radian: 32.2636
+radian: -54.211
+radian: 82.5758
+radian: 32.1787
+radian: -54.7276
+radian: 82.7197
+radian: 32.1214
+radian: -55.6197
+radian: 82.9374
+radian: 32.0346
+radian: -56.3099
+radian: 83.0837
+radian: 31.9761
+radian: -57.5288
+radian: 83.305
+radian: 31.8873
+radian: -59.0362
+radian: 83.4537
+radian: 31.8274
+radian: -60.2551
+radian: 83.7541
+radian: 31.7061
+radian: -62.5256
+radian: 83.9058
+radian: 31.6447
+radian: -65.556
+radian: 84.1352
+radian: 31.5514
+radian: -69.7751
+radian: 84.2894
+radian: 31.4885
+radian: -73.6105
+radian: 84.5226
+radian: 31.393
+radian: -81.8699
+radian: 84.7582
+radian: 31.2963
+radian: -95.1944
+radian: 84.9961
+radian: 31.1982
+radian: -82.875
+radian: 85.156
+radian: 31.132
+radian: -99.4623
+radian: 85.3979
+radian: 31.0315
+radian: -71.565
+radian: 85.6422
+radian: 30.9296
+radian: -180
+radian: 85.8889
+radian: 30.8263
+radian: 71.565
+radian: 86.0548
+radian: 30.7565
+radian: -180
+radian: 86.3899
+radian: 30.615
+radian: 56.3099
+radian: 86.6442
+radian: 30.5071
+radian: -180
+radian: 86.901
+radian: 30.3975
+radian: 56.3099
+radian: 87.1605
+radian: 30.2864
+radian: -180
+radian: 87.5104
+radian: 30.1355
+radian: 56.3099
+radian: 87.6872
+radian: 30.059
+radian: -225
+radian: 87.9546
+radian: 29.9427
+radian: -45
+radian: 88.2247
+radian: 29.8246
+radian: -225
+radian: 88.4063
+radian: 29.7449
+radian: -45
+radian: 88.6809
+radian: 29.6238
+radian: -180
+radian: 88.9549
+radian: 29.31
+radian: 26.565
+radian: 89.1349
+radian: 28.7429
+radian: -98.1301
+radian: 89.4154
+radian: 28.1186
+radian: -77.4712
+radian: 89.6055
+radian: 27.5266
+radian: -95.1944
+radian: 89.9
+radian: 26.8725
+radian: -81.8699
+radian: -269.899
+radian: 26.2545
+radian: -93.5763
+radian: 89.8973
+radian: 25.5692
+radian: -83.991
+radian: -269.791
+radian: 24.7585
+radian: -92.6026
+radian: 89.8943
+radian: 24.0965
+radian: -85.2364
+radian: -269.785
+radian: 23.2465
+radian: -92.0454
+radian: 89.8909
+radian: 22.4873
+radian: -86.1859
+radian: -269.778
+radian: 21.5929
+radian: -91.7357
+radian: 89.8874
+radian: 20.8657
+radian: -86.8202
+radian: -269.771
+radian: 19.9286
+radian: -93.0128
+radian: 90
+radian: 18.9666
+radian: -88.6361
+radian: 89.6441
+radian: 18.1038
+radian: -92.6026
+radian: 90
+radian: 17.3067
+radian: -88.7546
+radian: -269.755
+radian: 16.4046
+radian: -92.3373
+radian: 90
+radian: 15.5747
+radian: -88.8767
+radian: 89.6206
+radian: 14.6324
+radian: -92.1211
+radian: 90
+radian: 13.5334
+radian: -88.9949
+radian: -269.738
+radian: 12.6498
+radian: -91.9091
+radian: 89.8664
+radian: 11.6418
+radian: -89.076
+radian: -269.728
+radian: 10.7245
+radian: -90.8952
+radian: 89.8616
+radian: 9.67497
+radian: -89.1449
+radian: -269.718
+radian: 8.72414
+radian: -90.8303
+radian: 89.856
+radian: 7.48822
+radian: -89.2152
+radian: -269.706
+radian: 6.37286
+radian: -90.7639
+radian: 89.8504
+radian: 5.36973
+radian: -89.2559
+radian: -269.847
+radian: 4.21418
+radian: -90.7162
+radian: 89.6861
+radian: 2.73353
+radian: -88.6196
+inertness = false
+radian: -269.358
+radian: 1.54399
+radian: -91.9979
+radian: -269.018
+radian: 0.472208
+radian: -93.9005
+radian: -268.672
+radian: -0.321884
+radian: -95.1944
+radian: -268.158
+radian: 0.164644
+radian: -97.3738
+radian: -267.642
+radian: -0.337033
+radian: -99.5742
+radian: -267.112
+radian: 0.172574
+radian: -101.31
+radian: -266.754
+radian: -0.352585
+radian: -103.861
+radian: -266.209
+radian: 2.60732e-06
+radian: -105.642
+radian: -265.655
+radian: 0.558056
+radian: -109.148
+radian: -265.28
+radian: 0.190353
+radian: -111.092
+radian: -264.71
+radian: -0.391094
+radian: -113.405
+radian: -264.325
+radian: 0.200332
+radian: -116.565
+radian: -263.739
+radian: -0.412192
+radian: -118.74
+radian: -263.343
+radian: 0.211424
+radian: -122.093
+radian: -262.74
+radian: -0.435702
+radian: -124.38
+radian: -262.309
+radian: 0.224689
+radian: -127.875
+radian: -261.714
+radian: -0.463924
+radian: -130.872
+radian: -261.085
+radian: 0.239729
+radian: -133.807
+radian: -260.446
+radian: -0.498212
+radian: -137.386
+radian: -260.014
+radian: 0.256927
+radian: -140.947
+radian: -259.357
+radian: -0.532971
+radian: -143.297
+radian: -258.69
+radian: 0.279487
+radian: -147.216
+radian: -258.012
+radian: -0.584627
+radian: -151.26
+radian: -259.319
+radian: -254.814
+radian: -254.35
+radian: -254.187
+radian: -253.793
+radian: -253.536
+radian: -252.979
+radian: -252.558
+radian: -252.429
+
+pikachu takes damage from ::ThunderShock:: by pikachu
+type multiplier: 0.5
+Amount of dmg: 1
+pikachu: 22/28 HP
+radian: -252.193
+radian: -251.678
+radian: 22.7906
+radian: -251.509
+radian: 25.1016
+radian: -251.179
+radian: 28.3342
+radian: -250.963
+radian: 31.6755
+radian: -250.484
+radian: 35.3482
+radian: -250.335
+radian: 38.9275
+radian: -250.132
+radian: 43.3153
+radian: -249.677
+radian: 48.0587
+radian: -249.54
+radian: 52.7447
+radian: -249.196
+radian: 58.6959
+radian: -248.916
+radian: 64.3348
+radian: -248.791
+radian: 69.2059
+radian: -248.463
+radian: 75.6354
+radian: -248.199
+radian: 80.647
+radian: -248.083
+radian: 86.0548
+radian: -247.913
+radian: -268.727
+radian: -247.661
+radian: -266.923
+radian: -247.276
+radian: -265.236
+radian: -247.174
+radian: -264.174
+radian: -246.879
+radian: -262.108
+radian: -246.647
+radian: -261.254
+radian: -246.554
+radian: -259.838
+radian: -246.272
+radian: -259.095
+radian: -246.125
+radian: -258.294
+radian: -245.966
+radian: -256.787
+radian: -245.695
+radian: -256.079
+radian: -245.429
+radian: -254.949
+radian: -245.408
+radian: -254.116
+radian: -245.148
+radian: -253.511
+radian: -245.016
+radian: -252.929
+radian: -244.878
+radian: -251.828
+radian: -244.628
+radian: -251.307
+radian: -244.502
+radian: -250.805
+radian: -244.435
+radian: -250.084
+radian: -244.134
+radian: -249.399
+radian: -244.07
+radian: -248.749
+radian: -243.836
+radian: -248.334
+radian: -243.606
+radian: -247.6
+radian: -243.548
+radian: -247.353
+radian: -243.435
+radian: -246.623
+radian: -243.324
+radian: -246.275
+radian: -242.994
+radian: -245.638
+radian: -242.889
+radian: -245.292
+radian: -242.732
+radian: -244.832
+
+pikachu takes damage from ::ThunderShock:: by pikachu
+type multiplier: 0.5
+Amount of dmg: 2
+pikachu: 17/19 HP
+radian: -242.628
+radian: -244.537
+radian: -214.145
+radian: -242.53
+radian: -243.97
+radian: -214.245
+radian: -242.429
+radian: -243.699
+radian: -214.31
+radian: -242.225
+radian: -243.435
+radian: -214.407
+radian: -242.133
+radian: -242.928
+radian: -214.502
+radian: -241.934
+radian: -242.684
+radian: -214.565
+radian: -241.894
+radian: -242.447
+radian: -214.657
+radian: -241.699
+radian: -241.864
+radian: -214.65
+radian: -241.561
+radian: -241.771
+radian: -214.905
+radian: -241.524
+radian: -241.452
+radian: -214.896
+radian: -241.336
+radian: -241.246
+radian: -214.954
+radian: -241.204
+radian: -240.725
+radian: -214.973
+radian: -241.127
+radian: -240.656
+radian: -215.152
+radian: -240.945
+radian: -240.164
+radian: -215.141
+radian: -240.819
+radian: -240.106
+radian: -215.288
+radian: -240.736
+radian: -239.931
+radian: -215.368
+radian: -240.759
+radian: -239.995
+radian: -215.577
+radian: -241.194
+radian: -240.743
+radian: -215.978
+radian: -241.627
+radian: -241.574
+radian: -216.446
+radian: -241.915
+radian: -242.509
+radian: -216.825
+radian: -242.439
+radian: -243.435
+radian: -217.295
+radian: -242.773
+radian: -244.351
+radian: -217.767
+radian: -243.199
+radian: -245.161
+radian: -218.17
+radian: -243.576
+radian: -245.854
+radian: -218.555
+radian: -244.045
+radian: -246.949
+radian: -219.116
+radian: -244.465
+radian: -247.91
+radian: -219.661
+radian: -244.882
+radian: -248.692
+radian: -220.065
+radian: -245.078
+radian: -249.235
+radian: -220.183
+radian: -245.328
+radian: -249.63
+radian: -220.142
+radian: -245.389
+radian: -250.037
+radian: -220.115
+radian: -245.547
+radian: -250.456
+radian: -220.059
+radian: -245.807
+radian: -250.889
+radian: -220.016
+radian: -245.872
+radian: -251.336
+radian: -219.972
+radian: -246.082
+radian: -251.798
+radian: -219.943
+radian: -246.251
+radian: -252.114
+radian: -219.898
+radian: -246.32
+radian: -252.601
+radian: -219.852
+radian: -246.537
+radian: -253.104
+radian: -219.821
+radian: -246.713
+radian: -253.45
+radian: -219.774
+radian: -246.787
+radian: -253.982
+radian: -219.742
+radian: -247.011
+radian: -254.347
+radian: -219.694
+radian: -247.088
+radian: -254.911
+radian: -219.644
+radian: -247.318
+radian: -255.298
+radian: -219.611
+radian: -247.398
+radian: -255.896
+radian: -219.56
+radian: -247.633
+radian: -256.515
+radian: -219.525
+radian: -247.826
+radian: -256.941
+radian: -219.472
+radian: -247.911
+radian: -257.598
+radian: -219.419
+radian: -248.154
+radian: -258.05
+radian: -219.382
+radian: -248.243
+radian: -258.749
+radian: -219.327
+radian: -248.492
+radian: -259.173
+radian: -219.289
+radian: -248.585
+radian: -259.974
+radian: -219.232
+radian: -248.839
+radian: -260.747
+radian: -219.193
+radian: -249.052
+radian: -261.278
+radian: -219.134
+radian: -249.268
+radian: -262.057
+radian: -219.074
+radian: -249.37
+radian: -262.958
+radian: -219.012
+radian: -249.593
+radian: -263.848
+radian: -218.97
+radian: -249.864
+radian: -264.461
+radian: -218.906
+radian: -249.973
+radian: -265.412
+radian: -218.841
+radian: -250.25
+radian: -266.067
+radian: -218.797
+radian: -250.364
+radian: -267.083
+radian: -218.729
+inertness = false
+radian: -250.107
+radian: -266.655
+radian: -218.315
+radian: -249.769
+radian: -265.486
+radian: -217.784
+radian: -249.258
+radian: -264.251
+radian: -217.164
+radian: -248.619
+radian: -262.972
+radian: -216.546
+radian: -248.223
+radian: -262.038
+radian: -216.049
+radian: -247.875
+radian: -260.735
+radian: -215.521
+radian: -247.349
+radian: -259.732
+radian: -215.028
+radian: -246.996
+radian: -258.366
+radian: -214.501
+radian: -246.464
+radian: -257.289
+radian: -213.974
+radian: -246.106
+radian: -255.757
+radian: -213.488
+radian: -245.816
+radian: -255.124
+radian: -213.042
+radian: -245.898
+radian: -256.072
+radian: -212.956
+radian: -246.164
+radian: -257.074
+radian: -212.825
+radian: -246.379
+radian: -257.775
+radian: -212.69
+radian: -246.468
+radian: -258.879
+radian: -212.599
+radian: -246.745
+radian: -259.651
+radian: -212.459
+radian: -246.839
+radian: -260.87
+radian: -212.365
+radian: -247.124
+radian: -261.724
+radian: -212.22
+radian: -247.301
+radian: -263.541
+radian: -212.072
+radian: -247.596
+radian: -264.508
+radian: -211.921
+radian: -247.839
+radian: -266.566
+radian: -211.766
+radian: -248.03
+radian: -268.229
+radian: -211.554
+radian: -248.598
+radian: -211.279
+radian: -248.862
+radian: -211.109
+radian: -249.132
+radian: -210.934
+radian: -249.258
+radian: -210.756
+radian: -249.594
+radian: -210.634
+radian: -249.727
+radian: -210.448
+
+pikachu takes damage from ::ThunderShock:: by pikachu
+type multiplier: 0.5
+Amount of dmg: 1
+pikachu: 21/28 HP
+radian: -250.017
+radian: -210.256
+radian: -250.368
+radian: -268.229
+radian: -210.126
+radian: -250.671
+radian: -269.391
+radian: -209.927
+radian: -250.821
+radian: 88.7546
+radian: -209.883
+radian: -251.19
+radian: -269.356
+radian: -209.582
+radian: -251.511
+radian: 88.6678
+radian: -209.368
+radian: -251.675
+radian: -269.318
+radian: -209.148
+radian: -252.062
+radian: 88.5856
+radian: -208.998
+radian: -252.235
+radian: -269.275
+radian: -208.768
+radian: -252.635
+radian: 88.4926
+radian: -208.61
+inertness = false
+radian: -252.646
+radian: -267.647
+radian: -208.179
+radian: -251.966
+radian: -265.972
+radian: -207.46
+radian: -251.277
+radian: -263.29
+radian: -206.742
+radian: -250.813
+radian: -260.395
+radian: -206.034
+radian: -250.284
+radian: -258.341
+radian: -205.327
+radian: -249.401
+radian: -255.069
+radian: -204.542
+radian: -248.749
+radian: -251.565
+radian: -203.864
+radian: -248.025
+radian: -248.199
+radian: -203.173
+radian: -247.538
+radian: -245.225
+radian: -202.59
+radian: -246.801
+radian: -241.631
+radian: -201.909
+radian: -246.306
+radian: -238.325
+radian: -201.34
+radian: -245.556
+radian: -234.583
+radian: -200.668
+radian: -244.972
+radian: -231.009
+radian: -200.113
+radian: -244.463
+radian: -227.231
+radian: -199.451
+radian: -243.693
+radian: -223.493
+radian: -198.909
+radian: -243.176
+radian: -218.991
+radian: -198.258
+radian: -242.395
+radian: -216.027
+radian: -197.61
+radian: -241.87
+radian: -211.675
+radian: -197.089
+radian: -241.593
+radian: -210.411
+radian: -196.61
+radian: -241.928
+radian: -209.168
+radian: -196.358
+radian: -242.176
+radian: -208.217
+radian: -195.971
+radian: -242.251
+radian: -206.565
+radian: -195.709
+radian: -242.606
+radian: -203.962
+radian: -195.306
+radian: -242.688
+radian: -202.989
+radian: -194.893
+radian: -243.057
+radian: -200.136
+radian: -194.613
+radian: -243.339
+radian: -195.945
+radian: -194.182
+radian: -243.63
+radian: -193.496
+radian: -193.741
+radian: -243.731
+radian: -187.765
+radian: -193.488
+radian: -244.238
+radian: -180
+radian: -192.823
+radian: -244.556
+radian: -190.62
+radian: -192.346
+radian: -244.885
+radian: -180
+radian: -191.856
+inertness = false
+radian: -245.012
+radian: -191.31
+radian: -191.352
+radian: -244.385
+radian: -180
+radian: -190.804
+radian: -243.116
+radian: -190.62
+radian: -190.02
+radian: -242.152
+radian: -180
+radian: -189.115
+radian: -241.179
+radian: -187.431
+radian: -188.366
+radian: -240.195
+radian: -180
+radian: -187.663
+radian: -239.203
+radian: -184.086
+radian: -186.998
+radian: -238.831
+radian: -187.352
+radian: -187.501
+radian: -238.794
+radian: -191.634
+radian: -187.846
+radian: -238.559
+radian: -195.524
+radian: -188.383
+radian: -238.333
+radian: -198.435
+radian: -189.075
+radian: -238.304
+radian: -200.854
+radian: -189.367
+radian: -238.349
+radian: -202.714
+radian: -189.717
+radian: -238.96
+radian: -206.565
+radian: -190.357
+radian: -239.982
+radian: -212.969
+radian: -191.079
+radian: -240.774
+radian: -217.405
+radian: -191.736
+radian: -241.773
+radian: -223.152
+radian: -192.442
+radian: -242.363
+radian: -227.816
+radian: -192.965
+radian: -243.241
+radian: -232.352
+radian: -193.645
+radian: -244.016
+radian: -238.134
+radian: -194.381
+radian: -244.97
+radian: -242.879
+radian: -195.129
+radian: -245.538
+radian: -247.286
+radian: -195.69
+radian: -246.383
+radian: -251.94
+radian: -196.401
+radian: -247.135
+radian: -254.846
+radian: -196.98
+radian: -247.689
+radian: -258.69
+radian: -197.705
+radian: -248.587
+radian: -261.573
+radian: -198.502
+radian: -249.127
+radian: -264.898
+radian: -199.109
+radian: -249.928
+radian: -268.059
+radian: -199.855
+radian: -250.652
+radian: 90
+radian: -200.48
+radian: -251.241
+radian: 87.3162
+radian: -201.52
+radian: -252.015
+radian: 90
+radian: -202.084
+radian: -252.525
+radian: -268.34
+radian: -202.738
+radian: -253.282
+radian: 90
+radian: -203.516
+radian: -253.972
+radian: 87.6785
+radian: -204.187
+radian: -254.465
+radian: 90
+radian: -205.071
+radian: -255.246
+radian: -268.568
+radian: -205.866
+radian: -255.726
+radian: 90
+radian: -206.565
+radian: -256.436
+radian: 87.9786
+radian: -207.371
+radian: -257.093
+radian: 90
+radian: -208.086
+radian: -257.596
+radian: -268.727
+radian: -209.099
+radian: -258.278
+radian: 90
+radian: -209.83
+radian: -258.727
+radian: 88.1913
+radian: -210.57
+radian: -259.357
+radian: 90
+radian: -211.397
+radian: -260.046
+radian: -268.866
+radian: -212.347
+radian: -260.477
+radian: 90
+radian: -213.111
+radian: -261.114
+radian: 88.3789
+radian: -213.947
+radian: -261.533
+radian: 90
+radian: -214.725
+radian: -262.153
+radian: -268.968
+radian: -215.565
+radian: -262.74
+radian: 90
+radian: -216.355
+radian: -263.143
+radian: 88.5057
+radian: -217.34
+radian: -263.758
+radian: 90
+radian: -218.184
+radian: -264.148
+radian: -269.053
+radian: -218.991
+radian: -264.726
+radian: 90
+radian: -219.836
+radian: -265.28
+radian: 88.6361
+radian: -220.653
+radian: -265.655
+radian: 90
+radian: -221.496
+radian: -266.22
+radian: -268.698
+radian: -222.496
+radian: -266.583
+radian: 90
+radian: -223.325
+radian: -267.121
+radian: 88.7455
+radian: -224.33
+radian: -267.649
+radian: 90
+radian: -225.167
+radian: -268.163
+radian: -269.193
+radian: -226.005
+radian: -268.51
+radian: 90
+radian: -227.01
+radian: -269.015
+radian: 88.8388
+radian: -227.837
+radian: -269.347
+radian: 90
+radian: -228.681
+radian: -269.838
+radian: -268.869
+radian: -229.501
+radian: 89.6781
+radian: 90
+radian: -230.345
+radian: -269.84
+radian: 88.9122
+radian: -231.34
+radian: 89.6843
+radian: -270
+radian: -232.474
+radian: -270
+radian: -268.952
+radian: -233.318
+radian: -269.533
+radian: -270
+radian: -234.11
+radian: -269.845
+radian: 89.322
+radian: -234.951
+radian: 89.692
+radian: -269.665
+radian: -235.731
+radian: -269.848
+radian: 89.3452
+radian: -236.695
+radian: 89.6969
+radian: -270
+radian: -237.529
+radian: -269.849
+radian: -269.04
+radian: -238.287
+radian: 89.7008
+radian: -270
+radian: -239.115
+radian: -269.849
+radian: 89.3599
+radian: -239.357
+radian: 89.696
+radian: 90
+radian: -239.522
+radian: -269.847
+radian: -269.012
+radian: -239.778
+radian: 89.692
+radian: 90
+radian: -239.954
+radian: -269.845
+radian: 89.322
+radian: -240.224
+radian: 89.6878
+radian: 90
+radian: -240.505
+radian: -269.843
+radian: -268.946
+radian: -240.698
+radian: 89.6835
+radian: 90
+radian: -240.996
+radian: -269.84
+radian: 89.2748
+radian: -241.432
+radian: 89.8395
+radian: 90
+radian: -241.518
+radian: -269.838
+radian: -268.877
+radian: -241.847
+radian: 89.6745
+radian: 90
+radian: -242.074
+radian: -269.836
+radian: 88.8388
+radian: -242.425
+radian: 89.8344
+radian: 90
+radian: -242.791
+radian: -269.16
+radian: -267.546
+radian: -269.661
+radian: -268.746
+radian: 89.829
+radian: -270
+radian: -268.955
+radian: -269.648
+radian: 90
+radian: 89.4645
+radian: 90
+
+pikachu takes damage from ::ThunderShock:: by pikachu
+type multiplier: 0.5
+Amount of dmg: 2
+pikachu: 17/19 HP
+radian: -269.636
+radian: -242.791
+radian: 90
+radian: -243.043
+radian: 89.4455
+radian: -243.435
+radian: 90
+radian: -243.843
+radian: -269.623
+radian: -244.125
+
+pikachu takes damage from ::ThunderShock:: by pikachu
+type multiplier: 0.5
+Amount of dmg: 1
+pikachu: 20/28 HP
+radian: 90
+radian: -270
+radian: -244.564
+radian: 89.4251
+radian: -270
+radian: -244.867
+radian: 90
+radian: -270
+radian: -245.339
+radian: -269.61
+radian: -270
+radian: -245.833
+radian: 90
+radian: -270
+radian: -246.176
+radian: 89.4053
+radian: -270
+radian: -246.71
+radian: 90
+radian: -270
+radian: -247.27
+radian: -269.595
+radian: -270
+radian: -247.659
+radian: 90
+radian: -270
+radian: -248.268
+radian: 89.3817
+radian: -270
+radian: -248.691
+radian: 90
+radian: -270
+radian: -249.353
+radian: -269.58
+radian: -270
+radian: -250.186
+radian: 90
+radian: -270
+radian: -250.537
+radian: 89.3587
+radian: -270
+radian: -251.301
+radian: 89.5676
+radian: 88.8309
+radian: -252.646
+radian: 88.9109
+radian: 87.589
+radian: -255.641
+radian: 88.2308
+radian: 85.0303
+radian: -259.778
+radian: 87.5491
+radian: 83.5892
+radian: -263.29
+radian: 86.607
+radian: 80.7539
+radian: -268.025
+radian: 86.1099
+radian: 79.0889
+radian: 87.4664
+radian: 85.1404
+radian: 75.9638
+radian: 85.2799
+radian: 84.3824
+radian: 73.1625
+radian: 83.5412
+radian: 83.3456
+radian: 69.7024
+radian: 81.1702
+radian: 82.7857
+radian: 66.8014
+radian: 79.796
+radian: 82.0065
+radian: 64.4703
+radian: 77.7843
+radian: 81.4209
+radian: 62.387
+radian: 76.3903
+radian: 80.3349
+radian: 58.4957
+radian: 73.4742
+radian: 79.4722
+radian: 54.7436
+radian: 71.1753
+radian: 78.5412
+radian: 50.7106
+radian: 68.1986
+radian: 77.3881
+radian: 47.2906
+radian: 65.7142
+radian: 76.4641
+radian: 43.8542
+radian: 62.8503
+radian: 75.5216
+radian: 39.8056
+radian: 60.1729
+radian: 74.49
+radian: 35.9097
+radian: 56.8644
+radian: 73.5805
+radian: 33.0239
+radian: 54.6197
+radian: 72.3267
+radian: 29.3577
+radian: 51.2345
+radian: 71.4792
+radian: 26.565
+radian: 48.8785
+radian: 70.5297
+radian: 23.4986
+radian: 45.971
+radian: 69.7343
+radian: 21.5226
+radian: 44.029
+radian: 68.7638
+radian: 18.6669
+radian: 41.1215
+radian: 67.5741
+radian: 15.7512
+radian: 37.8157
+radian: 66.5799
+radian: 13.3602
+radian: 35.3803
+radian: 65.7205
+radian: 11.5752
+radian: 33.5034
+radian: 64.3281
+radian: 8.59591
+radian: 29.8271
+radian: 63.435
+radian: 7.04577
+radian: 28.0339
+radian: 3.36646
+radian: 25.3129
+radian: 1.18119
+radian: 20.4099
+radian: 2.60732e-06
+radian: 18.8247
+radian: 1.68468
+radian: 16.5258
+radian: 2.60732e-06
+radian: 14.3227
+radian: 1.60601
+radian: 12.9074
+radian: 2.60732e-06
+radian: 10.758
+radian: 1.52077
+radian: 8.91493
+radian: 2.60732e-06
+radian: 7.6668
+radian: 1.45636
+radian: 5.8696
+radian: 2.60732e-06
+radian: 4.72013
+radian: 1.39718
+radian: 3.06648
+radian: 2.60732e-06
+radian: 1.49433
+radian: 1.77604
+radian: 2.60732e-06
+
+pikachu takes damage from ::ThunderShock:: by pikachu
+type multiplier: 0.5
+Amount of dmg: 2
+pikachu: 17/19 HP
+radian: 45.3237
+radian: 0.434047
+radian: 1.42027
+radian: 44.5158
+radian: -0.848765
+radian: 2.60732e-06
+radian: 43.7054
+radian: 0.418208
+radian: 1.36393
+radian: 42.9028
+radian: -0.82434
+radian: 2.60732e-06
+radian: 42.0892
+radian: 0.403482
+radian: 1.31189
+radian: 41.1215
+radian: -0.790237
+radian: 2.60732e-06
+radian: 40.3299
+radian: 0.387131
+radian: 1.26367
+radian: 39.5138
+radian: -0.763899
+radian: 2.60732e-06
+radian: 38.4119
+radian: 0.374475
+radian: 1.21029
+radian: 37.7757
+radian: -0.734523
+radian: 2.60732e-06
+radian: 36.9606
+radian: 0.362624
+radian: 1.16914
+radian: 36.1932
+radian: -0.71171
+radian: 2.60732e-06
+radian: 35.3803
+radian: 0.351505
+radian: 1.13069
+radian: 34.6241
+radian: -0.694457
+radian: 2.60732e-06
+radian: 33.8146
+radian: 0.341041
+radian: 1.09469
+radian: 32.762
+radian: -0.99924
+radian: -0.355871
+radian: 31.8405
+radian: 0.329279
+radian: 1.05441
+radian: 30.7355
+radian: -0.965568
+radian: -0.343085
+radian: 29.8271
+radian: 0.316548
+radian: 1.011
+radian: 28.8204
+radian: -0.619386
+radian: -0.329281
+radian: 28.0339
+radian: 2.60732e-06
+radian: 0.651063
+radian: 27.1497
+radian: 0.904593
+radian: -0.320087
+radian: 26.4683
+radian: 2.60732e-06
+radian: 0.629596
+radian: 25.6955
+radian: 0.881404
+radian: -0.311386
+radian: 25.0299
+radian: 2.60732e-06
+radian: 0.616058
+radian: 24.2668
+radian: 0.85937
+radian: -0.303149
+radian: 23.6172
+radian: 2.60732e-06
+radian: 0.599932
+radian: 22.8645
+radian: 0.838415
+radian: -0.295335
+radian: 22.0362
+radian: 2.60732e-06
+radian: 0.581662
+radian: 21.218
+radian: 0.814578
+radian: -0.286476
+radian: 20.6047
+radian: 2.60732e-06
+radian: 0.56447
+radian: 19.8769
+radian: 0.795726
+radian: -0.279489
+radian: 19.086
+radian: 2.60732e-06
+radian: 0.550905
+radian: 18.4995
+radian: 0.774218
+radian: -0.271545
+radian: 17.7912
+radian: 2.60732e-06
+radian: 0.537976
+radian: 17.0284
+radian: 0.75717
+radian: -0.265255
+radian: 16.4688
+radian: 2.60732e-06
+radian: 0.525633
+radian: 15.7266
+radian: 0.73767
+radian: -0.25809
+radian: 15.0464
+radian: 2.60732e-06
+radian: 0.511556
+radian: 14.5133
+radian: 0.722179
+radian: -0.25352
+radian: 13.8462
+radian: 2.60732e-06
+radian: 0.500389
+radian: 13.2293
+radian: 0.71319
+radian: -0.249108
+radian: 12.9355
+radian: 2.60732e-06
+radian: 0.504795
+radian: 12.4855
+radian: 0.728299
+radian: -0.254647
+radian: 12.1792
+radian: 2.60732e-06
+radian: 0.516167
+radian: 11.551
+radian: 0.99635
+radian: -0.523238
+radian: 11.0261
+radian: 0.252405
+radian: 0.26526
+radian: 10.7354
+radian: -0.509284
+radian: -0.267734
+radian: 10.229
+radian: 0.258088
+radian: 0.271544
+radian: 9.88413
+radian: -0.261621
+radian: -0.275459
+radian: 9.1762
+radian: 0.530503
+radian: 0.558965
+radian: 8.8129
+radian: -0.268991
+radian: 2.60732e-06
+radian: 8.25589
+radian: 0.543071
+radian: 0.572939
+radian: 7.65397
+radian: -0.275459
+radian: 2.60732e-06
+radian: 7.29419
+radian: 0.556253
+radian: 0.587631
+radian: 6.00901
+radian: -1.12884
+radian: -1.19349
+radian: 3.96926
+radian: -2.00453
+radian: -2.1211
+radian: 2.36625
+radian: -2.89127
+radian: -2.75543
+radian: 0.479455
+radian: -3.52145
+radian: -3.7314
+radian: -1.20859
+radian: -4.1489
+radian: -4.42291
+radian: -1.95807
+radian: -5.11285
+radian: -5.42522
+radian: -2.71457
+radian: -6.10468
+radian: -6.48308
+radian: -1.52753
+radian: -4.73744
+radian: -5.14788
+radian: -9.25341
+radian: -5.7106
+radian: -10.3048
+radian: -4.80795
+radian: -8.66413
+radian: -9.59693
+radian: -10.5015
+radian: -11.4735
+radian: -12.193
+radian: -12.8671
+radian: -13.8972
+radian: -14.9501
+radian: -15.9454
+radian: -16.7557
+radian: -17.8695
+radian: -19.29
+radian: -20.1648
+radian: -21.3458
+radian: -22.1452
+radian: -23.3621
+radian: -24.5998
+radian: -25.4362
+
+pikachu takes damage from ::ThunderShock:: by pikachu
+Critical strike !
+type multiplier: 0.5
+Amount of dmg: 4
+pikachu: 13/19 HP
+radian: -26.9905
+radian: -27.9971
+radian: -41.3698
+
+pikachu takes damage from ::ThunderShock:: by pikachu
+type multiplier: 0.5
+Amount of dmg: 2
+pikachu: 15/19 HP
+radian: -28.8672
+radian: -42.2242
+radian: -44.1745
+radian: -30.4655
+radian: -43.2643
+radian: -45
+radian: -31.5222
+radian: -44.1293
+radian: -45.8255
+radian: -32.6961
+radian: -45.1731
+radian: -46.9749
+radian: -33.7812
+radian: -46.0416
+radian: -47.8048
+radian: -35.1542
+radian: -46.9034
+radian: -48.6173
+radian: -36.076
+radian: -47.7758
+radian: -49.4492
+radian: -37.7299
+radian: -48.8141
+radian: -50.2538
+radian: -38.8678
+radian: -49.6633
+radian: -51.2317
+radian: -39.8056
+radian: -50.5386
+radian: -52.064
+radian: -41.4677
+radian: -51.5688
+radian: -52.8533
+radian: -42.6338
+radian: -52.4018
+radian: -53.8204
+radian: -43.5797
+radian: -53.2759
+radian: -54.6497
+radian: -45
+radian: -54.2933
+radian: -55.6097
+radian: -46.4203
+radian: -55.1067
+radian: -56.3732
+radian: -48.0623
+radian: -56.3099
+radian: -57.3194
+radian: -49.2538
+radian: -57.308
+radian: -58.452
+radian: -50.6637
+radian: -57.9693
+radian: -59.1911
+radian: -52.0667
+radian: -59.2811
+radian: -60.311
+radian: -52.8614
+radian: -59.8987
+radian: -60.9014
+radian: -53.3374
+radian: -60.2551
+radian: -61.169
+radian: -53.2714
+radian: -60.4396
+radian: -61.4456
+radian: -53.7074
+radian: -60.7247
+radian: -61.7315
+radian: -53.9454
+radian: -60.9206
+radian: -61.9275
+radian: -53.8889
+radian: -61.2234
+radian: -62.2301
+radian: -54.3721
+radian: -61.5376
+radian: -62.3225
+radian: -54.3236
+radian: -61.7538
+radian: -62.7583
+radian: -54.8411
+radian: -62.0885
+radian: -63.0905
+radian: -55.1455
+radian: -62.3189
+radian: -63.3187
+radian: -55.114
+radian: -62.6761
+radian: -63.6717
+radian: -55.6965
+radian: -63.0478
+radian: -63.7961
+radian: -55.6789
+radian: -63.3041
+radian: -64.29
+radian: -56.0489
+radian: -63.7021
+radian: -64.6803
+radian: -57.2361
+radian: -64.3808
+radian: -65.0679
+radian: -58.5479
+radian: -65.3084
+radian: -66.1791
+radian: -66.4768
+radian: -67.2917
+radian: -68.6888
+radian: -69.0605
+radian: -69.6468
+radian: -70.2011
+radian: -70.6557
+radian: -71.1406
+radian: -71.3843
+radian: -71.9011
+radian: -72.4602
+radian: -72.8195
+radian: -73.5155
+radian: -73.8027
+radian: -74.4759
+radian: -74.5175
+radian: -75.2284
+radian: -75.4655
+radian: -76.293
+radian: -76.3955
+radian: -77.2077
+radian: -77.2518
+radian: -77.8491
+radian: -77.9052
+radian: -78.7941
+radian: -78.7388
+radian: -79.7186
+radian: -79.3652
+radian: -80.3237
+radian: -80.2176
+radian: -81.2147
+radian: -81.0148
+radian: -82.0858
+radian: -81.8361
+radian: -82.6878
+radian: -82.4054
+radian: -83.4944
+radian: -83.1666
+radian: -84.0429
+radian: -83.7112
+radian: -84.8499
+radian: -84.4502
+radian: -85.6384
+radian: -84.9709
+radian: -86.17
+radian: -85.7052
+radian: -86.9123
+radian: -86.4097
+radian: -87.4081
+radian: -86.894
+radian: -88.1374
+radian: -87.5774
+radian: -88.8496
+radian: -88.2577
+radian: -89.5435
+radian: -88.703
+radian: -90
+radian: -89.361
+radian: -90.6688
+radian: -90
+radian: -90
+radian: -90.4197
+radian: -89.5643
+radian: -90
+radian: -90
+radian: -89.3839
+radian: -90.6437
+radian: -90
+radian: -90
+radian: -90.4021
+radian: -89.5803
+radian: -90
+radian: -90
+radian: -89.4073
+radian: -90.6183
+radian: -90
+radian: -90
+radian: -90.5826
+radian: -89.5965
+radian: -90
+radian: -90
+radian: -89.4271
+radian: -90.5968
+radian: -90
+radian: -90
+radian: -90.5617
+radian: -89.4154
+radian: -90
+radian: -90
+radian: -89.4473
+radian: -90.5729
+radian: -90
+radian: -90
+radian: -90.3626
+radian: -89.4365
+radian: -90
+radian: -90
+radian: -89.4662
+radian: -90.5527
+radian: -90
+radian: -90
+radian: -90.3504
+radian: -89.6362
+radian: -90
+radian: -90
+radian: -89.4823
+radian: -90.5355
+radian: -90
+radian: -90
+radian: -90.5085
+radian: -89.6485
+radian: -90
+radian: -90
+radian: -89.6659
+radian: -90.5177
+radian: -90
+radian: -90
+radian: -90.4925
+radian: -89.66
+radian: -90
+radian: -90
+radian: -89.6763
+radian: -90.5011
+radian: -90
+radian: -90
+radian: -90.4775
+radian: -89.5061
+radian: -90.1583
+radian: -90
+radian: -89.6861
+radian: -90.4869
+radian: -90.1561
+radian: -90
+radian: -89.6911
+radian: -89.5212
+radian: -90
+radian: -90
+radian: -90.4584
+radian: -90.4709
+radian: -90
+radian: -90
+radian: -90.3008
+radian: -89.5342
+radian: -90.1496
+radian: -90
+radian: -89.7016
+radian: -90.4671
+radian: -90
+radian: -90
+radian: -90.4535
+radian: -89.5252
+radian: -90.1524
+radian: -90
+radian: -89.6936
+radian: -90.321
+radian: -90.1544
+radian: -90
+radian: -89.6886
+radian: -89.5117
+radian: -90.1565
+radian: -90
+radian: -89.6843
+radian: -90.3302
+radian: -90.1587
+radian: -90
+radian: -89.6799
+radian: -89.4959
+radian: -90.1609
+radian: -90.1695
+radian: -89.5117
+radian: -89.659
+radian: -90
+radian: -90.1721
+radian: -90.4953
+radian: -89.6528
+radian: -90
+radian: -90.1747
+radian: -89.4974
+radian: -89.6474
+radian: -90
+radian: -90.1774
+radian: -90.51
+radian: -89.6419
+radian: -90
+radian: -90.1802
+radian: -89.4823
+radian: -89.6362
+radian: -90
+radian: -90.1836
+radian: -90.5272
+radian: -89.6292
+radian: -89.8226
+radian: -90.1872
+radian: -90.5371
+radian: -89.6218
+radian: -90
+radian: -90.382
+radian: -89.4526
+radian: -89.8071
+radian: -89.8158
+radian: -90.3898
+radian: -90.5581
+radian: -90
+radian: -90
+radian: -89.4053
+radian: -89.6218
+radian: -90
+radian: -90
+radian: -90.4035
+radian: -90.5768
+radian: -90
+radian: -90
+radian: -89.3839
+radian: -89.6089
+radian: -90
+radian: -90
+radian: -90.4197
+radian: -90.5989
+radian: -90
+radian: -90
+radian: -89.3587
+radian: -89.5937
+radian: -90
+radian: -90
+radian: -90.4357
+radian: -90.6205
+radian: -90
+radian: -90
+radian: -89.3338
+radian: -89.3681
+radian: -90
+radian: -90
+radian: -90.4529
+radian: -90.4292
+radian: -90
+radian: -90
+radian: -89.3041
+radian: -89.3415
+radian: -90
+radian: -90
+radian: -90.4735
+radian: -90.4476
+radian: -90
+radian: -90
+radian: -89.2748
+radian: -89.3152
+radian: -90
+radian: -90
+radian: -90.4939
+radian: -90.6987
+radian: -89.7487
+radian: -89.7632
+radian: -90.5093
+radian: -90.4775
+radian: -89.7431
+radian: -89.7582
+radian: -90.5209
+radian: -90.4897
+radian: -89.7372
+radian: -89.753
+radian: -90.533
+radian: -90.5004
+radian: -89.7297
+radian: -89.7465
+radian: -90.5457
+radian: -90.5116
+radian: -89.7232
+radian: -89.7407
+radian: -90.5617
+radian: -90.5256
+radian: -89.715
+radian: -89.7347
+radian: -90.5758
+radian: -90.538
+radian: -88.893
+
+pikachu takes damage from ::ThunderShock:: by pikachu
+type multiplier: 0.5
+Amount of dmg: 2
+pikachu: 11/19 HP
+radian: -82.79
+radian: -90.5758
+radian: -89.7191
+radian: -83.1026
+radian: -89.7077
+radian: -90.2836
+radian: -83.2902
+radian: -90.5907
+radian: -89.7121
+radian: -83.9177
+radian: -88.7811
+radian: -84.2309
+radian: -89.6903
+radian: -84.5484
+radian: -90.6296
+radian: -84.8703
+radian: -89.6799
+radian: -85.077
+radian: -90.6474
+radian: -85.4068
+radian: -89.6707
+radian: -85.7502
+radian: -90.6701
+radian: -85.9666
+radian: -89.661
+radian: -86.3086
+radian: -90.6903
+radian: -86.6626
+radian: -89.6485
+radian: -86.8892
+radian: -90.7117
+radian: -87.2439
+radian: -89.6374
+radian: -87.6088
+radian: -90.7393
+radian: -87.9727
+radian: -89.6255
+radian: -88.2141
+radian: -90.7639
+radian: -88.5903
+radian: -89.6102
+
+pikachu takes damage from ::ThunderShock:: by pikachu
+Critical strike !
+type multiplier: 0.5
+Amount of dmg: 3
+pikachu: 17/28 HP
+radian: -88.9678
+radian: -90.7902
+radian: -89.2205
+radian: -89.5965
+radian: -89.7121
+radian: -90.2646
+radian: -93.4166
+radian: -92.0989
+destroy bulbasaur (a.k.a ::PKMN_TEMPLATE::)
+destroy ivysaur (a.k.a ::PKMN_TEMPLATE::)
+destroy charmander (a.k.a ::PKMN_TEMPLATE::)
+destroy squirtle (a.k.a ::PKMN_TEMPLATE::)
+destroy caterpie (a.k.a ::PKMN_TEMPLATE::)
+destroy butterfree (a.k.a ::PKMN_TEMPLATE::)
+destroy weedle (a.k.a ::PKMN_TEMPLATE::)
+destroy kakuna (a.k.a ::PKMN_TEMPLATE::)
+destroy beedrill (a.k.a ::PKMN_TEMPLATE::)
+destroy pidgey (a.k.a ::PKMN_TEMPLATE::)
+destroy rattata (a.k.a ::PKMN_TEMPLATE::)
+destroy spearow (a.k.a ::PKMN_TEMPLATE::)
+destroy ekans (a.k.a ::PKMN_TEMPLATE::)
+destroy pikachu (a.k.a ::PKMN_TEMPLATE::)
+destroy sandshrew (a.k.a ::PKMN_TEMPLATE::)
+destroy nidoranF (a.k.a ::PKMN_TEMPLATE::)
+destroy nidoranM (a.k.a ::PKMN_TEMPLATE::)
+destroy clefairy (a.k.a ::PKMN_TEMPLATE::)
+destroy vulpix (a.k.a ::PKMN_TEMPLATE::)
+destroy ninetales (a.k.a ::PKMN_TEMPLATE::)
+destroy jigglypuff (a.k.a ::PKMN_TEMPLATE::)
+destroy zubat (a.k.a ::PKMN_TEMPLATE::)
+destroy oddish (a.k.a ::PKMN_TEMPLATE::)

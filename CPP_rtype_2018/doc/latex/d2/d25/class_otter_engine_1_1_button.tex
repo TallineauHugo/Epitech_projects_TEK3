@@ -1,0 +1,75 @@
+\hypertarget{class_otter_engine_1_1_button}{}\section{Otter\+Engine\+:\+:Button Class Reference}
+\label{class_otter_engine_1_1_button}\index{Otter\+Engine\+::\+Button@{Otter\+Engine\+::\+Button}}
+
+
+Inheritance diagram for Otter\+Engine\+:\+:Button\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[height=550pt]{d4/d75/class_otter_engine_1_1_button__inherit__graph}
+\end{center}
+\end{figure}
+
+
+Collaboration diagram for Otter\+Engine\+:\+:Button\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[height=550pt]{d0/d82/class_otter_engine_1_1_button__coll__graph}
+\end{center}
+\end{figure}
+\subsection*{Public Types}
+\begin{DoxyCompactItemize}
+\item 
+enum {\bfseries State} \{ {\bfseries N\+O\+R\+M\+AL}, 
+{\bfseries H\+O\+V\+E\+R\+ED}, 
+{\bfseries C\+L\+I\+C\+K\+ED}
+ \}\hypertarget{class_otter_engine_1_1_button_ac1f3343e32d3da7b37720e503035152c}{}\label{class_otter_engine_1_1_button_ac1f3343e32d3da7b37720e503035152c}
+
+\item 
+typedef std\+::function$<$ void(void $\ast$)$>$ {\bfseries Callback}\hypertarget{class_otter_engine_1_1_button_a9b2fd0dcdfd6bd46bf1802ee374bf719}{}\label{class_otter_engine_1_1_button_a9b2fd0dcdfd6bd46bf1802ee374bf719}
+
+\end{DoxyCompactItemize}
+\subsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+{\bfseries Button} (std\+::string text, sf\+::\+Font \&font, Vector2d pos, int layer, Vector2d size, Callback callback, void $\ast$data, std\+::string sprite\+Normal\+Path, std\+::string sprite\+Hovered\+Path=\char`\"{}\char`\"{}, std\+::string sprite\+Clicked\+Path=\char`\"{}\char`\"{})\hypertarget{class_otter_engine_1_1_button_af72b406844217a523be24214b1164825}{}\label{class_otter_engine_1_1_button_af72b406844217a523be24214b1164825}
+
+\item 
+void {\bfseries set\+Position} (Vector2d pos)\hypertarget{class_otter_engine_1_1_button_a6a0d67dfbae91fdbaae4e9ce8bb9cde3}{}\label{class_otter_engine_1_1_button_a6a0d67dfbae91fdbaae4e9ce8bb9cde3}
+
+\item 
+void {\bfseries set\+Size} (Vector2d size)\hypertarget{class_otter_engine_1_1_button_ac06271abf7c148821dc57642764b334f}{}\label{class_otter_engine_1_1_button_ac06271abf7c148821dc57642764b334f}
+
+\item 
+void {\bfseries set\+Font\+Size} (unsigned int size)\hypertarget{class_otter_engine_1_1_button_a773fe6dfc149f96b6464cb5667d11312}{}\label{class_otter_engine_1_1_button_a773fe6dfc149f96b6464cb5667d11312}
+
+\item 
+void {\bfseries set\+Text} (std\+::string str)\hypertarget{class_otter_engine_1_1_button_a1f7fdb8db89cfc8d54a4443f7274bb56}{}\label{class_otter_engine_1_1_button_a1f7fdb8db89cfc8d54a4443f7274bb56}
+
+\item 
+void {\bfseries set\+Font} (sf\+::\+Font \&font)\hypertarget{class_otter_engine_1_1_button_a23cb567fa08dc64366e1fd95a2e05081}{}\label{class_otter_engine_1_1_button_a23cb567fa08dc64366e1fd95a2e05081}
+
+\item 
+Vector2d {\bfseries get\+Position} ()\hypertarget{class_otter_engine_1_1_button_a5cb8fb39ed0894951ff42f5adeb70719}{}\label{class_otter_engine_1_1_button_a5cb8fb39ed0894951ff42f5adeb70719}
+
+\item 
+Vector2d {\bfseries get\+Dimensions} ()\hypertarget{class_otter_engine_1_1_button_a3a65d82b95a0c05c834c3782f240d6a5}{}\label{class_otter_engine_1_1_button_a3a65d82b95a0c05c834c3782f240d6a5}
+
+\item 
+State {\bfseries get\+State} ()\hypertarget{class_otter_engine_1_1_button_af80145188596555a5724b9e8dfed2b56}{}\label{class_otter_engine_1_1_button_af80145188596555a5724b9e8dfed2b56}
+
+\item 
+void {\bfseries set\+Callback} (Callback callback)\hypertarget{class_otter_engine_1_1_button_ad72d0714977884895ca18c3793a48a5d}{}\label{class_otter_engine_1_1_button_ad72d0714977884895ca18c3793a48a5d}
+
+\item 
+void {\bfseries update} (sf\+::\+Event \&event) override\hypertarget{class_otter_engine_1_1_button_aac25453110bb01e51bb55198c697c207}{}\label{class_otter_engine_1_1_button_aac25453110bb01e51bb55198c697c207}
+
+\end{DoxyCompactItemize}
+\subsection*{Additional Inherited Members}
+
+
+The documentation for this class was generated from the following files\+:\begin{DoxyCompactItemize}
+\item 
+Otter\+Engine/include/\+G\+U\+I/Button.\+hpp\item 
+Otter\+Engine/src/\+G\+U\+I/Button.\+cpp\end{DoxyCompactItemize}

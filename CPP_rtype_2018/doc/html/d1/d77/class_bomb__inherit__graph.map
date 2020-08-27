@@ -1,0 +1,4 @@
+<map id="Bomb" name="Bomb">
+<area shape="rect" id="node2" href="$d2/dbe/class_bullet.html" title="{Bullet\n|# _camp\l|+ Bullet()\l+ ~Bullet()\l+ setCamp()\l+ getCamp()\l+ hit()\l+ updateEvents()\l+ Bullet()\l+ ~Bullet()\l+ setCamp()\l+ getCamp()\land 10 more...\l}" alt="" coords="13,351,135,575"/>
+<area shape="rect" id="node3" href="$db/d66/class_otter_engine_1_1_object.html" title="{OtterEngine::Object\n|# _name\l# _hitbox\l# _velocity\l# _events\l# _sprite\l# _aim\l|+ Object()\l+ ~Object()\l+ setPos()\l+ setAim()\l+ setHitBox()\l+ setVelocity()\l+ getPos()\l+ getAim()\l+ getSize()\l+ getAngle()\land 8 more...\l}" alt="" coords="5,5,143,303"/>
+</map>

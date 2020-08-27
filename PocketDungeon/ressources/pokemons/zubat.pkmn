@@ -1,0 +1,11 @@
+id:041
+type:poison/flying
+ev:+1speed
+exp:54
+rate:255
+hp:40
+atk:45
+def:35
+atkSpe:30
+defSpe:40
+speed:55

@@ -1,0 +1,4 @@
+<map id="OtterEngine::ISprite" name="OtterEngine::ISprite">
+<area shape="rect" id="node2" href="$db/d66/class_otter_engine_1_1_object.html" title="{OtterEngine::Object\n|# _name\l# _velocity\l# _events\l# _aim\l|+ Object()\l+ ~Object()\l+ setPos()\l+ setAim()\l+ setHitBox()\l+ setVelocity()\l+ getPos()\l+ getAim()\l+ getSize()\l+ getAngle()\land 8 more...\l}" alt="" coords="93,336,231,604"/>
+<area shape="rect" id="node3" href="$d3/df8/class_otter_engine_1_1_hitbox.html" title="{OtterEngine::Hitbox\n||+ Hitbox()\l+ ~Hitbox()\l+ setAngle()\l+ setPos()\l+ setType()\l+ setSquareSize()\l+ setRadius()\l+ getAngle()\l+ getPos()\l+ getType()\l+ getSquareSize()\l+ getRadius()\l+ applyLPos()\l+ doCollide()\l}" alt="" coords="180,5,317,273"/>
+</map>
